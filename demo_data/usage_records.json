@@ -1,0 +1,4997 @@
+{
+  "bd3c5318-dfce-4192-89cd-43070daedcdb": {
+    "id": "bd3c5318-dfce-4192-89cd-43070daedcdb",
+    "user_id": "user_freemium_001",
+    "feature": "basic_ai_response",
+    "timestamp": "2025-07-01T05:01:06.785301",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e47e7195-e6b5-49cf-804f-f751474d8028": {
+    "id": "e47e7195-e6b5-49cf-804f-f751474d8028",
+    "user_id": "user_freemium_001",
+    "feature": "basic_ai_response",
+    "timestamp": "2025-07-01T05:01:06.786105",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "079d8756-6634-4d39-a1f6-9dd55a9a06c1": {
+    "id": "079d8756-6634-4d39-a1f6-9dd55a9a06c1",
+    "user_id": "user_freemium_001",
+    "feature": "basic_ai_response",
+    "timestamp": "2025-07-01T05:01:06.787093",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "03fdf903-8f11-4e73-8181-6e3bf7f9828c": {
+    "id": "03fdf903-8f11-4e73-8181-6e3bf7f9828c",
+    "user_id": "user_freemium_001",
+    "feature": "basic_ai_response",
+    "timestamp": "2025-07-01T05:01:06.788628",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "75936ac7-55b1-441e-aaa3-75e04560b1d1": {
+    "id": "75936ac7-55b1-441e-aaa3-75e04560b1d1",
+    "user_id": "user_freemium_001",
+    "feature": "basic_ai_response",
+    "timestamp": "2025-07-01T05:01:06.789607",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "84c19cde-47df-4c41-8229-842b788fc86c": {
+    "id": "84c19cde-47df-4c41-8229-842b788fc86c",
+    "user_id": "user_freemium_001",
+    "feature": "basic_ai_response",
+    "timestamp": "2025-07-01T05:01:29.513346",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "38773f02-fecd-4702-97a4-4c1816613e07": {
+    "id": "38773f02-fecd-4702-97a4-4c1816613e07",
+    "user_id": "user_freemium_001",
+    "feature": "basic_ai_response",
+    "timestamp": "2025-07-01T05:01:29.515748",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "42ca52c4-ab2c-4897-acb8-ec0f65774896": {
+    "id": "42ca52c4-ab2c-4897-acb8-ec0f65774896",
+    "user_id": "user_freemium_001",
+    "feature": "basic_ai_response",
+    "timestamp": "2025-07-01T05:01:29.518014",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "88e50c6c-21ae-47ae-939c-d9404296bf01": {
+    "id": "88e50c6c-21ae-47ae-939c-d9404296bf01",
+    "user_id": "user_freemium_001",
+    "feature": "basic_ai_response",
+    "timestamp": "2025-07-01T05:01:29.520742",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d49b2b6b-2da7-4d0e-9aea-a67738d8369e": {
+    "id": "d49b2b6b-2da7-4d0e-9aea-a67738d8369e",
+    "user_id": "user_freemium_001",
+    "feature": "basic_ai_response",
+    "timestamp": "2025-07-01T05:01:29.524052",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8ca67e24-3131-4f46-ab79-7fa8595394e7": {
+    "id": "8ca67e24-3131-4f46-ab79-7fa8595394e7",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:11:46.272630",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6b16d201-309c-486e-b843-16cd0a9be39c": {
+    "id": "6b16d201-309c-486e-b843-16cd0a9be39c",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:11:46.273728",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f24c107c-7b7e-4798-ad37-4f3d4eb1a06d": {
+    "id": "f24c107c-7b7e-4798-ad37-4f3d4eb1a06d",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:11:46.274736",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f4cc2a1a-1e89-4eb7-b717-43250d0bb1be": {
+    "id": "f4cc2a1a-1e89-4eb7-b717-43250d0bb1be",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:11:46.275792",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8b0d3cb6-df15-48b8-ad62-79d759e10230": {
+    "id": "8b0d3cb6-df15-48b8-ad62-79d759e10230",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:11:46.276951",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b286efcf-956b-4b55-a781-20124655657c": {
+    "id": "b286efcf-956b-4b55-a781-20124655657c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:11:46.279105",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5d7347a5-a0e3-4abe-8367-67ded85d5185": {
+    "id": "5d7347a5-a0e3-4abe-8367-67ded85d5185",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:11:46.280205",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e73e83de-da0d-42f9-9a56-26ecba5977ba": {
+    "id": "e73e83de-da0d-42f9-9a56-26ecba5977ba",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:11:46.281372",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "337ffb8f-1291-4a08-8d3e-a5fb2f8abb4c": {
+    "id": "337ffb8f-1291-4a08-8d3e-a5fb2f8abb4c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:11:46.282468",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c4ca14de-0509-47fa-9826-30287f2e93f6": {
+    "id": "c4ca14de-0509-47fa-9826-30287f2e93f6",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:11:46.283545",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5b817040-5f4b-4dda-b734-00ae7054e1d8": {
+    "id": "5b817040-5f4b-4dda-b734-00ae7054e1d8",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:11:46.284665",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b0ae38ed-ce91-4177-b37c-ce4eb4cfcb56": {
+    "id": "b0ae38ed-ce91-4177-b37c-ce4eb4cfcb56",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:11:46.285773",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "feeda8e2-1b15-4199-a331-565c524f5e7f": {
+    "id": "feeda8e2-1b15-4199-a331-565c524f5e7f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:11:46.287069",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ec9c4209-8885-4341-adc1-5735df338ece": {
+    "id": "ec9c4209-8885-4341-adc1-5735df338ece",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:11:46.288590",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "533e65b0-0687-4105-9ec6-15aa4904f880": {
+    "id": "533e65b0-0687-4105-9ec6-15aa4904f880",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:11:46.290602",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "cba29f37-cd5d-4c29-82ee-e78606c36741": {
+    "id": "cba29f37-cd5d-4c29-82ee-e78606c36741",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:44:33.153140",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8cf5cdba-c652-49fd-9933-f780f8e8b0a2": {
+    "id": "8cf5cdba-c652-49fd-9933-f780f8e8b0a2",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:44:33.155219",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f0870756-d9c5-4c63-a5f8-7fd270b4a21d": {
+    "id": "f0870756-d9c5-4c63-a5f8-7fd270b4a21d",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:44:33.156645",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "bbac7302-111b-4e90-a49a-b234a408fc48": {
+    "id": "bbac7302-111b-4e90-a49a-b234a408fc48",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:44:33.157874",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "50d9a6a7-7d95-4739-b975-f256b2c48070": {
+    "id": "50d9a6a7-7d95-4739-b975-f256b2c48070",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:44:33.159084",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0f462868-3c12-4e1e-93d7-5c064ac8d0ef": {
+    "id": "0f462868-3c12-4e1e-93d7-5c064ac8d0ef",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:44:33.161135",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e0e8bdb1-c5ee-403f-9d9b-2b75ea0dd034": {
+    "id": "e0e8bdb1-c5ee-403f-9d9b-2b75ea0dd034",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:44:33.162729",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b5da570b-1b1c-49f3-a574-fd243f7a233f": {
+    "id": "b5da570b-1b1c-49f3-a574-fd243f7a233f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:44:33.164071",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "cc377057-bdb2-4d8d-adf6-892673edbbd7": {
+    "id": "cc377057-bdb2-4d8d-adf6-892673edbbd7",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:44:33.165359",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "06b534a8-b039-4f9e-8141-b51471244a31": {
+    "id": "06b534a8-b039-4f9e-8141-b51471244a31",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:44:33.167153",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b6ce3040-1316-46c5-bf92-568173258e4a": {
+    "id": "b6ce3040-1316-46c5-bf92-568173258e4a",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:44:33.168480",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ceda2b35-57a5-498c-8e93-91c30cbf6b7e": {
+    "id": "ceda2b35-57a5-498c-8e93-91c30cbf6b7e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:44:33.169826",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "dcb7ebc0-bbc2-4430-9a9b-4166dd43255c": {
+    "id": "dcb7ebc0-bbc2-4430-9a9b-4166dd43255c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:44:33.171392",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d59d21dd-1242-4699-8f39-3a023b4693c4": {
+    "id": "d59d21dd-1242-4699-8f39-3a023b4693c4",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:44:33.172688",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ff235740-feda-41b1-ae7e-ade47ee683ea": {
+    "id": "ff235740-feda-41b1-ae7e-ade47ee683ea",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:44:33.173896",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b734393f-bf0f-492a-9299-29377067c3cd": {
+    "id": "b734393f-bf0f-492a-9299-29377067c3cd",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:46:14.564113",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "aca66a27-82a9-4aae-9ee4-1e9ec9dabacd": {
+    "id": "aca66a27-82a9-4aae-9ee4-1e9ec9dabacd",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:46:14.566761",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b085c1f6-b575-4d16-a484-6be8d43dc43d": {
+    "id": "b085c1f6-b575-4d16-a484-6be8d43dc43d",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:46:14.568456",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "681ddc6a-0e20-4ad8-89a4-c18ef14e8477": {
+    "id": "681ddc6a-0e20-4ad8-89a4-c18ef14e8477",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:46:14.569837",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "52b766e5-e642-464c-b195-bcb7712a0a95": {
+    "id": "52b766e5-e642-464c-b195-bcb7712a0a95",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T05:46:14.571133",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "20f56348-3993-47bd-83ac-3c3890d33c1e": {
+    "id": "20f56348-3993-47bd-83ac-3c3890d33c1e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:46:14.573304",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "75003a03-8055-48c4-866b-4241b8e4ce6d": {
+    "id": "75003a03-8055-48c4-866b-4241b8e4ce6d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:46:14.574918",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5b079d76-0fd6-49ea-8fdd-1eb2a9bfb85e": {
+    "id": "5b079d76-0fd6-49ea-8fdd-1eb2a9bfb85e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:46:14.576695",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b2ea5ba2-6eb0-4b3a-983c-eb3b259a2c4e": {
+    "id": "b2ea5ba2-6eb0-4b3a-983c-eb3b259a2c4e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:46:14.578038",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "75455b70-02c9-4d52-9d9e-2a62b26358bb": {
+    "id": "75455b70-02c9-4d52-9d9e-2a62b26358bb",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:46:14.579653",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ca684867-5b56-4c4f-b90b-aba2b6944746": {
+    "id": "ca684867-5b56-4c4f-b90b-aba2b6944746",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:46:14.581037",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ca7a738a-64d1-4fab-8f46-3bcdfa780930": {
+    "id": "ca7a738a-64d1-4fab-8f46-3bcdfa780930",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:46:14.582364",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1aa56918-57f2-40e5-9d17-e38e1784c7f2": {
+    "id": "1aa56918-57f2-40e5-9d17-e38e1784c7f2",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:46:14.583822",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "58bdb8f6-e81d-4055-9af8-ae66d1843e88": {
+    "id": "58bdb8f6-e81d-4055-9af8-ae66d1843e88",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:46:14.585319",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5a8c1635-027e-40cf-a218-7d167714d6ce": {
+    "id": "5a8c1635-027e-40cf-a218-7d167714d6ce",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T05:46:14.587299",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ad89af20-72cf-4e61-806e-d95482c6fcca": {
+    "id": "ad89af20-72cf-4e61-806e-d95482c6fcca",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T06:57:32.197588",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a5e9d0b7-7c5d-4f8d-b776-e58fe690dc2c": {
+    "id": "a5e9d0b7-7c5d-4f8d-b776-e58fe690dc2c",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T06:57:32.199832",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "236d70bc-6109-40b3-80a7-e7ab5290d718": {
+    "id": "236d70bc-6109-40b3-80a7-e7ab5290d718",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T06:57:32.201474",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3835f2fd-fd9c-44ae-975b-3dfe15846029": {
+    "id": "3835f2fd-fd9c-44ae-975b-3dfe15846029",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T06:57:32.203004",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "49c2d88c-1791-4ff2-a0e5-953c3c015a60": {
+    "id": "49c2d88c-1791-4ff2-a0e5-953c3c015a60",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T06:57:32.204576",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e51720ef-5aa1-4ed2-8d01-a5903602ec3c": {
+    "id": "e51720ef-5aa1-4ed2-8d01-a5903602ec3c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T06:57:32.208117",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3fbd138d-3694-42a2-b99f-a08606c1f7f8": {
+    "id": "3fbd138d-3694-42a2-b99f-a08606c1f7f8",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T06:57:32.210077",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "323c3c56-c526-477e-a776-06015302b29b": {
+    "id": "323c3c56-c526-477e-a776-06015302b29b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T06:57:32.211630",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6feaf5a7-6446-4f84-ad15-d9ecbdc7c092": {
+    "id": "6feaf5a7-6446-4f84-ad15-d9ecbdc7c092",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T06:57:32.213179",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a78d63f6-6081-4b2e-9e51-211085cdc6bf": {
+    "id": "a78d63f6-6081-4b2e-9e51-211085cdc6bf",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T06:57:32.215076",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c14e150a-e890-476a-88fb-4f4b26c4659a": {
+    "id": "c14e150a-e890-476a-88fb-4f4b26c4659a",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T06:57:32.216873",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8a423783-dd5f-425f-b260-9e7638089e2c": {
+    "id": "8a423783-dd5f-425f-b260-9e7638089e2c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T06:57:32.218600",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a30124c9-8fd7-423d-a782-53985e79298c": {
+    "id": "a30124c9-8fd7-423d-a782-53985e79298c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T06:57:32.221809",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "fa75de16-f80f-4540-944d-dd604d1f1db6": {
+    "id": "fa75de16-f80f-4540-944d-dd604d1f1db6",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T06:57:32.223588",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "635140fb-7f16-4bc8-962e-6ee3452023d2": {
+    "id": "635140fb-7f16-4bc8-962e-6ee3452023d2",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T06:57:32.225635",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b654f5bd-32ed-4bb9-82f1-4e08e2763120": {
+    "id": "b654f5bd-32ed-4bb9-82f1-4e08e2763120",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T08:14:21.926642+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "25e664f9-f3dd-4b5d-b66e-cfbd3a5ee782": {
+    "id": "25e664f9-f3dd-4b5d-b66e-cfbd3a5ee782",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T08:14:21.928863+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ad6f95b8-2d21-45ca-8adf-f0ec3a68116c": {
+    "id": "ad6f95b8-2d21-45ca-8adf-f0ec3a68116c",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T08:14:21.930626+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "83de7bcc-3fa4-4ecd-9de4-389638c8b20a": {
+    "id": "83de7bcc-3fa4-4ecd-9de4-389638c8b20a",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T08:14:21.932289+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "23775491-6c3c-4281-ba79-eecdbe0ecc5d": {
+    "id": "23775491-6c3c-4281-ba79-eecdbe0ecc5d",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T08:14:21.933705+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b3b69101-65a8-40bb-bfc3-8966e857ebda": {
+    "id": "b3b69101-65a8-40bb-bfc3-8966e857ebda",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T08:14:21.936040+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7ef925d9-9013-4b16-9242-193f4ae747f3": {
+    "id": "7ef925d9-9013-4b16-9242-193f4ae747f3",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T08:14:21.937722+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6e564deb-cc8b-46d1-84d6-422d08126740": {
+    "id": "6e564deb-cc8b-46d1-84d6-422d08126740",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T08:14:21.939305+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "01d5ca3a-4883-4f47-81ec-a9721816d8c5": {
+    "id": "01d5ca3a-4883-4f47-81ec-a9721816d8c5",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T08:14:21.940782+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5781b3bc-3424-4745-ba0b-3e0f13a5572f": {
+    "id": "5781b3bc-3424-4745-ba0b-3e0f13a5572f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T08:14:21.942523+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3bb089d6-0681-4b96-b9dc-61f4712af8f2": {
+    "id": "3bb089d6-0681-4b96-b9dc-61f4712af8f2",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T08:14:21.944268+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "febedeba-8641-404a-90cd-82e9b65cdde3": {
+    "id": "febedeba-8641-404a-90cd-82e9b65cdde3",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T08:14:21.945924+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "893d59ec-4bda-46ac-9387-4378a3df7152": {
+    "id": "893d59ec-4bda-46ac-9387-4378a3df7152",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T08:14:21.947435+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f9a01de9-9d6a-48df-8c6d-af86d09d5c93": {
+    "id": "f9a01de9-9d6a-48df-8c6d-af86d09d5c93",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T08:14:21.948910+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "68d3200e-1b41-4bfe-9ea2-ea47ed570267": {
+    "id": "68d3200e-1b41-4bfe-9ea2-ea47ed570267",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T08:14:21.950456+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b0597b5b-0e8d-4805-9444-43620702dbdd": {
+    "id": "b0597b5b-0e8d-4805-9444-43620702dbdd",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T18:13:59.954751+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6e6b5f0d-aafd-4693-9ca4-58b2c8356ef2": {
+    "id": "6e6b5f0d-aafd-4693-9ca4-58b2c8356ef2",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T18:13:59.957192+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2a138585-b88d-48e8-bdb1-a7a16f1d6f80": {
+    "id": "2a138585-b88d-48e8-bdb1-a7a16f1d6f80",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T18:13:59.959171+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d5230eb0-9d01-4944-8a76-d14b6611c29d": {
+    "id": "d5230eb0-9d01-4944-8a76-d14b6611c29d",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T18:13:59.961209+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0c0f6fe1-c49c-404f-b980-a25491918c87": {
+    "id": "0c0f6fe1-c49c-404f-b980-a25491918c87",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-01T18:13:59.963659+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1dca96df-a283-4be9-973b-45c2626b582e": {
+    "id": "1dca96df-a283-4be9-973b-45c2626b582e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T18:13:59.967250+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "10e6c89c-1442-44f0-a4dd-d3f98c111619": {
+    "id": "10e6c89c-1442-44f0-a4dd-d3f98c111619",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T18:13:59.969023+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "dcf5c17e-a872-4e8e-ba47-e8ec26254f41": {
+    "id": "dcf5c17e-a872-4e8e-ba47-e8ec26254f41",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T18:13:59.970649+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e374a830-c1a1-4e2a-a8e8-8a128dfbf35c": {
+    "id": "e374a830-c1a1-4e2a-a8e8-8a128dfbf35c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T18:13:59.972224+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4aa3c5de-609d-409d-84f8-ba8722242876": {
+    "id": "4aa3c5de-609d-409d-84f8-ba8722242876",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T18:13:59.973823+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a38128ae-744d-4331-a30f-a0e43a995adc": {
+    "id": "a38128ae-744d-4331-a30f-a0e43a995adc",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T18:13:59.975620+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e66f05d8-5f19-4a2d-97b0-ea9b261ab3e3": {
+    "id": "e66f05d8-5f19-4a2d-97b0-ea9b261ab3e3",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T18:13:59.977272+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c6b64450-0253-4e50-852b-17bbd59e01da": {
+    "id": "c6b64450-0253-4e50-852b-17bbd59e01da",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T18:13:59.979281+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5dcce909-711e-4df2-a6eb-f8417eb2007c": {
+    "id": "5dcce909-711e-4df2-a6eb-f8417eb2007c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T18:13:59.980967+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "79d61924-9fce-44d8-8eca-ac26fc82aadb": {
+    "id": "79d61924-9fce-44d8-8eca-ac26fc82aadb",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-01T18:13:59.982595+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "09c8396c-0357-4260-bbc2-2b8f6edd729b": {
+    "id": "09c8396c-0357-4260-bbc2-2b8f6edd729b",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T03:14:27.087384+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "091d7345-2dd3-4bff-b376-ba807c3c153d": {
+    "id": "091d7345-2dd3-4bff-b376-ba807c3c153d",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T03:14:27.089059+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e36df8ef-4a71-406a-be62-5fa1387b48e1": {
+    "id": "e36df8ef-4a71-406a-be62-5fa1387b48e1",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T03:14:27.090508+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7bd760cf-d589-4734-b7ff-03b34d196a2c": {
+    "id": "7bd760cf-d589-4734-b7ff-03b34d196a2c",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T03:14:27.091952+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "94dcedd0-2488-46c0-b6c0-86b0f768e082": {
+    "id": "94dcedd0-2488-46c0-b6c0-86b0f768e082",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T03:14:27.093360+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a56addaf-fee5-494c-aab7-23ce27f252d7": {
+    "id": "a56addaf-fee5-494c-aab7-23ce27f252d7",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T03:14:27.095736+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "934c5c84-79c1-46b3-85f1-408118bbbe76": {
+    "id": "934c5c84-79c1-46b3-85f1-408118bbbe76",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T03:14:27.097180+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e67b5ac2-a8e5-4861-9665-a5b44f4b591b": {
+    "id": "e67b5ac2-a8e5-4861-9665-a5b44f4b591b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T03:14:27.098613+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8c8c9247-80aa-4758-9070-3b4aec18295d": {
+    "id": "8c8c9247-80aa-4758-9070-3b4aec18295d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T03:14:27.100085+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7c1c7969-3595-42e7-9667-f82a3aeedccc": {
+    "id": "7c1c7969-3595-42e7-9667-f82a3aeedccc",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T03:14:27.101651+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b5d2bfbe-be2f-4158-98b0-416536b49c4d": {
+    "id": "b5d2bfbe-be2f-4158-98b0-416536b49c4d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T03:14:27.103106+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c8abfd9f-23aa-4dba-b174-485aa24c55b4": {
+    "id": "c8abfd9f-23aa-4dba-b174-485aa24c55b4",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T03:14:27.104533+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8c93a23a-95ce-44b4-8c84-d42afdaccf1f": {
+    "id": "8c93a23a-95ce-44b4-8c84-d42afdaccf1f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T03:14:27.105974+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8adebfbe-de31-458f-a458-0ef212dec5ca": {
+    "id": "8adebfbe-de31-458f-a458-0ef212dec5ca",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T03:14:27.107461+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9943ee0f-9a1b-4eb2-8e30-5ce7c107c49c": {
+    "id": "9943ee0f-9a1b-4eb2-8e30-5ce7c107c49c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T03:14:27.108921+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0ec12632-52a1-499f-b9c2-3bd11742be58": {
+    "id": "0ec12632-52a1-499f-b9c2-3bd11742be58",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T10:19:13.561826+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b6ccdd96-ec9c-441d-b8f4-ad8740f6d1f5": {
+    "id": "b6ccdd96-ec9c-441d-b8f4-ad8740f6d1f5",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T10:19:13.563962+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "cc722e71-2390-4151-ac90-d8a74851f936": {
+    "id": "cc722e71-2390-4151-ac90-d8a74851f936",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T10:19:13.566011+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6039a134-5ba6-4099-919c-4ab07ff7eadf": {
+    "id": "6039a134-5ba6-4099-919c-4ab07ff7eadf",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T10:19:13.568038+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "43477c89-4945-4942-bf9f-7faae6b98ce0": {
+    "id": "43477c89-4945-4942-bf9f-7faae6b98ce0",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T10:19:13.569907+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a2d75eed-ba26-4b7a-804c-98dc1ed96e0d": {
+    "id": "a2d75eed-ba26-4b7a-804c-98dc1ed96e0d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:19:13.572976+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ebe1d7fe-4630-4a32-a421-c4d72f7a27e8": {
+    "id": "ebe1d7fe-4630-4a32-a421-c4d72f7a27e8",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:19:13.574782+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "96abbc84-ab82-42b1-8e19-5c6dff2a4f5b": {
+    "id": "96abbc84-ab82-42b1-8e19-5c6dff2a4f5b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:19:13.576586+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2852481f-4761-4064-aa12-c88d2aab5d3a": {
+    "id": "2852481f-4761-4064-aa12-c88d2aab5d3a",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:19:13.578887+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1348cd4d-372d-4087-aa1b-39047c561ef7": {
+    "id": "1348cd4d-372d-4087-aa1b-39047c561ef7",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:19:13.581003+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5640561e-595e-4785-be9e-d09930157648": {
+    "id": "5640561e-595e-4785-be9e-d09930157648",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:19:13.583330+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c81c9919-e91a-47a7-82c6-4a9deadfd87c": {
+    "id": "c81c9919-e91a-47a7-82c6-4a9deadfd87c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:19:13.585155+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "491130d5-3e15-4c91-8bce-c7d7185fbb78": {
+    "id": "491130d5-3e15-4c91-8bce-c7d7185fbb78",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:19:13.587614+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e7abab76-874f-4d16-bdda-86c7835a3d31": {
+    "id": "e7abab76-874f-4d16-bdda-86c7835a3d31",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:19:13.590288+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d0ec04fe-f0ef-4773-a2d6-d10713934f99": {
+    "id": "d0ec04fe-f0ef-4773-a2d6-d10713934f99",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:19:13.592423+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c818152c-19ce-4dbb-a386-b124801a7b0b": {
+    "id": "c818152c-19ce-4dbb-a386-b124801a7b0b",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T10:21:37.309859+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0c42bc79-a5af-436c-bd55-0616f43369e8": {
+    "id": "0c42bc79-a5af-436c-bd55-0616f43369e8",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T10:21:37.312908+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b4defd39-04d9-41cf-a113-de9609ea803a": {
+    "id": "b4defd39-04d9-41cf-a113-de9609ea803a",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T10:21:37.314951+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "fdce4593-a9c4-4d6e-bb43-41a9a581dd69": {
+    "id": "fdce4593-a9c4-4d6e-bb43-41a9a581dd69",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T10:21:37.317134+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f75223eb-0fa5-44f8-9860-75385314aadf": {
+    "id": "f75223eb-0fa5-44f8-9860-75385314aadf",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T10:21:37.320573+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8497a27a-f023-433a-9308-afa301e18fb9": {
+    "id": "8497a27a-f023-433a-9308-afa301e18fb9",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:21:37.324120+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "356352ef-b2eb-4818-9fcd-ee01d4945d04": {
+    "id": "356352ef-b2eb-4818-9fcd-ee01d4945d04",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:21:37.326437+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ec42ed60-1125-483a-96d1-8c576af4ec81": {
+    "id": "ec42ed60-1125-483a-96d1-8c576af4ec81",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:21:37.328715+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c84797c0-b728-4ecd-b57d-89b6e8dfdb25": {
+    "id": "c84797c0-b728-4ecd-b57d-89b6e8dfdb25",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:21:37.330637+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c5ba9b05-8e6d-42d5-a377-702f6f94e3ea": {
+    "id": "c5ba9b05-8e6d-42d5-a377-702f6f94e3ea",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:21:37.332553+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f544e145-5ab1-4510-9068-aee2634c7da5": {
+    "id": "f544e145-5ab1-4510-9068-aee2634c7da5",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:21:37.334941+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "537160dc-0428-4a34-8729-0d84fa72e191": {
+    "id": "537160dc-0428-4a34-8729-0d84fa72e191",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:21:37.337033+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6c751108-d92c-4ed8-88d6-be919c6f8a52": {
+    "id": "6c751108-d92c-4ed8-88d6-be919c6f8a52",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:21:37.339039+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "085e3a77-5d47-45b5-87c5-f7435e9e8d91": {
+    "id": "085e3a77-5d47-45b5-87c5-f7435e9e8d91",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:21:37.340997+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8333e38f-e51b-4433-8dc6-17f92087afe2": {
+    "id": "8333e38f-e51b-4433-8dc6-17f92087afe2",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T10:21:37.342938+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "fb5af4ac-6fb1-4459-ab36-422bc3236002": {
+    "id": "fb5af4ac-6fb1-4459-ab36-422bc3236002",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T15:05:07.983263+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "fb17535c-082e-4221-8485-9cf28d7e414b": {
+    "id": "fb17535c-082e-4221-8485-9cf28d7e414b",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T15:05:07.987058+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ad29abdb-3c18-4472-b9f3-6709590a5364": {
+    "id": "ad29abdb-3c18-4472-b9f3-6709590a5364",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T15:05:07.990198+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a6ff2870-4370-4454-a58d-eec4094a0922": {
+    "id": "a6ff2870-4370-4454-a58d-eec4094a0922",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T15:05:07.997038+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "066376ef-4cff-444f-aee7-75074d6e2424": {
+    "id": "066376ef-4cff-444f-aee7-75074d6e2424",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T15:05:08.001385+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2f3c4eb1-eb94-4a82-a894-a6f3db1d4586": {
+    "id": "2f3c4eb1-eb94-4a82-a894-a6f3db1d4586",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T15:05:08.005824+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "061bc163-530e-4ca0-a9ed-87865d20debd": {
+    "id": "061bc163-530e-4ca0-a9ed-87865d20debd",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T15:05:08.008716+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "862b312b-cda5-45f8-85e8-a36007b3f8b0": {
+    "id": "862b312b-cda5-45f8-85e8-a36007b3f8b0",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T15:05:08.011841+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "cf90b958-2e3f-4138-a135-641019c81da0": {
+    "id": "cf90b958-2e3f-4138-a135-641019c81da0",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T15:05:08.014708+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "51971bd9-75cd-4cb8-a7e2-c907168e7bf9": {
+    "id": "51971bd9-75cd-4cb8-a7e2-c907168e7bf9",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T15:05:08.024133+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3843cc69-6c61-4a63-99f4-6dcf782d1540": {
+    "id": "3843cc69-6c61-4a63-99f4-6dcf782d1540",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T15:05:08.026463+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "abc931da-22a8-454d-9de8-a96a23fb9beb": {
+    "id": "abc931da-22a8-454d-9de8-a96a23fb9beb",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T15:05:08.028918+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8855967b-8870-4e15-9a10-b5d2b15777a7": {
+    "id": "8855967b-8870-4e15-9a10-b5d2b15777a7",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T15:05:08.031022+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0c965116-0cf5-4bef-a297-fe8d0e1bfeed": {
+    "id": "0c965116-0cf5-4bef-a297-fe8d0e1bfeed",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T15:05:08.033077+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ec76e8e7-cd2f-4ab7-b249-84d5da9aba42": {
+    "id": "ec76e8e7-cd2f-4ab7-b249-84d5da9aba42",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T15:05:08.035355+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ca47e172-f1f6-4d94-a8cf-5a53eb285019": {
+    "id": "ca47e172-f1f6-4d94-a8cf-5a53eb285019",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T17:42:42.023430+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f10e3eff-fe38-4025-ad99-53e37574f75a": {
+    "id": "f10e3eff-fe38-4025-ad99-53e37574f75a",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T17:42:42.028039+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f2d32d1b-0ec7-4ed9-a735-8d7982b6aedc": {
+    "id": "f2d32d1b-0ec7-4ed9-a735-8d7982b6aedc",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T17:42:42.032259+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7475cf7b-8262-483c-83f6-53639bd3c2e1": {
+    "id": "7475cf7b-8262-483c-83f6-53639bd3c2e1",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T17:42:42.035497+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6aa58b10-74ed-4de3-9028-07a37390712c": {
+    "id": "6aa58b10-74ed-4de3-9028-07a37390712c",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T17:42:42.038974+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b933f7fe-762d-4798-9d03-1fd32ee28b38": {
+    "id": "b933f7fe-762d-4798-9d03-1fd32ee28b38",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:42:42.044315+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0fbaf9cc-eaab-447d-8538-3d7982254277": {
+    "id": "0fbaf9cc-eaab-447d-8538-3d7982254277",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:42:42.047838+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a86cd437-5d18-484e-a05a-b2991a71f025": {
+    "id": "a86cd437-5d18-484e-a05a-b2991a71f025",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:42:42.050943+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "92c7eb79-a3a3-4366-b045-4bd6ea8a512b": {
+    "id": "92c7eb79-a3a3-4366-b045-4bd6ea8a512b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:42:42.053475+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7e25b4ed-c1e7-48c7-aa68-dc4c93f2a2d4": {
+    "id": "7e25b4ed-c1e7-48c7-aa68-dc4c93f2a2d4",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:42:42.056027+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d0c86f65-a979-444a-923f-c12b53ad04ae": {
+    "id": "d0c86f65-a979-444a-923f-c12b53ad04ae",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:42:42.058683+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "dea6e592-a28c-4a80-8c90-fd38d8313ec3": {
+    "id": "dea6e592-a28c-4a80-8c90-fd38d8313ec3",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:42:42.061088+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "94d22148-7247-4795-9d45-026e93660dcf": {
+    "id": "94d22148-7247-4795-9d45-026e93660dcf",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:42:42.063618+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "930f8736-63b6-455f-a640-d974af9169ee": {
+    "id": "930f8736-63b6-455f-a640-d974af9169ee",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:42:42.068380+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "30c78285-772b-456a-8465-c56528f24dbb": {
+    "id": "30c78285-772b-456a-8465-c56528f24dbb",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:42:42.071463+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4fa8173e-b8e6-4041-9201-d30832c605b7": {
+    "id": "4fa8173e-b8e6-4041-9201-d30832c605b7",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T17:53:35.522122+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "bb27f81b-9f78-4d84-9eec-55aac0c7fb8c": {
+    "id": "bb27f81b-9f78-4d84-9eec-55aac0c7fb8c",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T17:53:35.526611+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "fbc0bd32-85d3-49bb-a1f4-cd0afbfda28e": {
+    "id": "fbc0bd32-85d3-49bb-a1f4-cd0afbfda28e",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T17:53:35.530092+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9518de9a-f05c-4dcf-b93e-e149b63ef351": {
+    "id": "9518de9a-f05c-4dcf-b93e-e149b63ef351",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T17:53:35.534131+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c354b785-d072-4803-a86c-65453ed97668": {
+    "id": "c354b785-d072-4803-a86c-65453ed97668",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T17:53:35.537855+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4b69d588-5f67-4aa2-a37d-d877d87c0d3e": {
+    "id": "4b69d588-5f67-4aa2-a37d-d877d87c0d3e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:53:35.543382+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "00646cc1-65fb-4de3-b040-0149bc0eec3c": {
+    "id": "00646cc1-65fb-4de3-b040-0149bc0eec3c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:53:35.546995+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7b47333c-713f-4a5a-82a5-bd17c8fc4d76": {
+    "id": "7b47333c-713f-4a5a-82a5-bd17c8fc4d76",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:53:35.549880+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1a449e2e-9dee-45ee-b34c-837666174c34": {
+    "id": "1a449e2e-9dee-45ee-b34c-837666174c34",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:53:35.552707+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "409f8eac-7ba7-4130-8467-677ed84ce364": {
+    "id": "409f8eac-7ba7-4130-8467-677ed84ce364",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:53:35.555908+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1f54a2b9-7d4d-44de-b59f-de08903d8ecd": {
+    "id": "1f54a2b9-7d4d-44de-b59f-de08903d8ecd",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:53:35.558609+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e9b4f1e5-24b9-4ad9-b201-a42a2b705819": {
+    "id": "e9b4f1e5-24b9-4ad9-b201-a42a2b705819",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:53:35.561420+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "cf3459ed-57d3-4b40-9af4-669566d41f40": {
+    "id": "cf3459ed-57d3-4b40-9af4-669566d41f40",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:53:35.563932+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "44dc55e5-9a60-4115-beeb-ba01e8513a78": {
+    "id": "44dc55e5-9a60-4115-beeb-ba01e8513a78",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:53:35.567322+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "79e9b2fb-083a-4b48-9105-700e400b056d": {
+    "id": "79e9b2fb-083a-4b48-9105-700e400b056d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T17:53:35.569785+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b758f3ad-948d-4869-a413-36eb5d69324e": {
+    "id": "b758f3ad-948d-4869-a413-36eb5d69324e",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:05:19.769050+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8d6bb3cb-a1cf-4723-8d71-5f0369fd3314": {
+    "id": "8d6bb3cb-a1cf-4723-8d71-5f0369fd3314",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:05:19.774051+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "07566f79-d346-40b8-9f6a-6233bc26a6d4": {
+    "id": "07566f79-d346-40b8-9f6a-6233bc26a6d4",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:05:19.779426+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8a19e8da-98ed-4193-8ce7-91060852d1c4": {
+    "id": "8a19e8da-98ed-4193-8ce7-91060852d1c4",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:05:19.783147+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9dfa04ce-ec13-4665-941a-4f0c58dae871": {
+    "id": "9dfa04ce-ec13-4665-941a-4f0c58dae871",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:05:19.786721+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2efd10ee-2679-498b-b61f-6b6c9e6a5a6a": {
+    "id": "2efd10ee-2679-498b-b61f-6b6c9e6a5a6a",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:05:19.791301+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "298f1175-95be-4e9d-b9db-d808ea9fa52e": {
+    "id": "298f1175-95be-4e9d-b9db-d808ea9fa52e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:05:19.794307+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6b018da5-912c-4486-b83a-d7a5424c0fd1": {
+    "id": "6b018da5-912c-4486-b83a-d7a5424c0fd1",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:05:19.797670+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9bd1cbdd-1cb2-4de1-9b59-17bbd8d623a5": {
+    "id": "9bd1cbdd-1cb2-4de1-9b59-17bbd8d623a5",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:05:19.800792+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8c20d882-95f7-4e9a-bf1f-0ef3affeb9dd": {
+    "id": "8c20d882-95f7-4e9a-bf1f-0ef3affeb9dd",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:05:19.804510+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4248edaf-bb40-44e5-9fed-bdd08bd97e44": {
+    "id": "4248edaf-bb40-44e5-9fed-bdd08bd97e44",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:05:19.807664+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8b6c7eec-e7af-4826-bc19-0d65989edeb9": {
+    "id": "8b6c7eec-e7af-4826-bc19-0d65989edeb9",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:05:19.810370+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3c059c68-bbd3-46c3-8170-d1c4ac14b804": {
+    "id": "3c059c68-bbd3-46c3-8170-d1c4ac14b804",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:05:19.812781+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6dbcbb6d-1098-4e82-83bc-3ff43eb9ad6d": {
+    "id": "6dbcbb6d-1098-4e82-83bc-3ff43eb9ad6d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:05:19.815114+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "21d1aa5f-e389-4557-b554-5e707d12e53f": {
+    "id": "21d1aa5f-e389-4557-b554-5e707d12e53f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:05:19.817484+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "05e4ec79-bccc-46ea-8d65-ef3832433e90": {
+    "id": "05e4ec79-bccc-46ea-8d65-ef3832433e90",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:22:42.231453+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5a87532f-3774-43f0-88ee-877559fc394c": {
+    "id": "5a87532f-3774-43f0-88ee-877559fc394c",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:22:42.236583+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "810eae86-fda5-4a42-968c-dfe946cb62c2": {
+    "id": "810eae86-fda5-4a42-968c-dfe946cb62c2",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:22:42.240638+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1064ca7f-9e86-458e-b9fd-a7aa51843d16": {
+    "id": "1064ca7f-9e86-458e-b9fd-a7aa51843d16",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:22:42.244335+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5fa5dd58-898c-4afe-b543-b7d2fc224f16": {
+    "id": "5fa5dd58-898c-4afe-b543-b7d2fc224f16",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:22:42.248038+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e3e9c4ac-04ef-4e07-827b-2112f13e9f9d": {
+    "id": "e3e9c4ac-04ef-4e07-827b-2112f13e9f9d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:22:42.253440+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "89343cdb-67ae-4a2f-ad30-033f659e5f0b": {
+    "id": "89343cdb-67ae-4a2f-ad30-033f659e5f0b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:22:42.256769+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4502ac49-c780-4507-bfc0-ad99969a89b6": {
+    "id": "4502ac49-c780-4507-bfc0-ad99969a89b6",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:22:42.259899+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2e896bf0-5e9b-44f0-b6a7-d6165b34ccb5": {
+    "id": "2e896bf0-5e9b-44f0-b6a7-d6165b34ccb5",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:22:42.262705+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "298fa28c-4d01-4520-96fc-8d56e2302479": {
+    "id": "298fa28c-4d01-4520-96fc-8d56e2302479",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:22:42.265521+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0d8002be-f303-4378-8507-3d9f5b7478bc": {
+    "id": "0d8002be-f303-4378-8507-3d9f5b7478bc",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:22:42.268167+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "98c5d185-d124-46d3-8a6d-ad469335f61d": {
+    "id": "98c5d185-d124-46d3-8a6d-ad469335f61d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:22:42.270818+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6d67dff0-34d8-477e-b50d-ab236e4c220c": {
+    "id": "6d67dff0-34d8-477e-b50d-ab236e4c220c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:22:42.273482+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d93a5e05-6390-424b-897f-05c9b90916d7": {
+    "id": "d93a5e05-6390-424b-897f-05c9b90916d7",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:22:42.276049+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b2694faa-7d62-4292-ba56-c3c3885c3b8e": {
+    "id": "b2694faa-7d62-4292-ba56-c3c3885c3b8e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:22:42.278578+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5335acaf-e24e-49ce-b0fe-9e7093294928": {
+    "id": "5335acaf-e24e-49ce-b0fe-9e7093294928",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:38:24.837086+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "56c50c6a-ea67-4e9b-bdd0-4307d383bebb": {
+    "id": "56c50c6a-ea67-4e9b-bdd0-4307d383bebb",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:38:24.842521+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d7563648-0dd8-48f1-bb5c-379f6d0e7eca": {
+    "id": "d7563648-0dd8-48f1-bb5c-379f6d0e7eca",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:38:24.847071+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d48848c2-7ba5-4e77-801a-104fc924035d": {
+    "id": "d48848c2-7ba5-4e77-801a-104fc924035d",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:38:24.850653+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7d523b30-4d81-42fb-9219-5821d11d07db": {
+    "id": "7d523b30-4d81-42fb-9219-5821d11d07db",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T18:38:24.853898+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ee6176ae-73a3-4ed3-8ac4-dddb4157d87f": {
+    "id": "ee6176ae-73a3-4ed3-8ac4-dddb4157d87f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:38:24.859602+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9f2c73cc-ffda-4988-805d-7e02505f62d5": {
+    "id": "9f2c73cc-ffda-4988-805d-7e02505f62d5",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:38:24.863029+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3c321061-fcd1-49ab-b36d-23874a9d587f": {
+    "id": "3c321061-fcd1-49ab-b36d-23874a9d587f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:38:24.866193+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "330c5800-2325-4190-93a0-2ca56eefd39d": {
+    "id": "330c5800-2325-4190-93a0-2ca56eefd39d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:38:24.869112+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "94aa7efa-b537-4592-8afe-774b80712817": {
+    "id": "94aa7efa-b537-4592-8afe-774b80712817",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:38:24.872184+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4321198b-f9f7-4976-8e4c-48cc598acdc2": {
+    "id": "4321198b-f9f7-4976-8e4c-48cc598acdc2",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:38:24.875244+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "16de18b7-d94a-48cd-af23-90329584c089": {
+    "id": "16de18b7-d94a-48cd-af23-90329584c089",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:38:24.877884+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "dd4a6c55-a01e-424b-8ed1-03e75f5d9ffb": {
+    "id": "dd4a6c55-a01e-424b-8ed1-03e75f5d9ffb",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:38:24.880585+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "59071703-b165-4b08-b488-1d47ef92433e": {
+    "id": "59071703-b165-4b08-b488-1d47ef92433e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:38:24.883239+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4d8926c5-3e03-4ca7-ba11-7131ccfc226d": {
+    "id": "4d8926c5-3e03-4ca7-ba11-7131ccfc226d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T18:38:24.885862+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "724b2dce-3537-46b0-b177-ba9360228179": {
+    "id": "724b2dce-3537-46b0-b177-ba9360228179",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T19:40:46.823998+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d5b16f1d-a703-4727-8c94-b5dfe5db790b": {
+    "id": "d5b16f1d-a703-4727-8c94-b5dfe5db790b",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T19:40:46.829308+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "adba74eb-88a6-4c9b-a6e6-29d9634fb23f": {
+    "id": "adba74eb-88a6-4c9b-a6e6-29d9634fb23f",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T19:40:46.832992+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "85ebaef7-729c-48a1-aa42-6878b270829c": {
+    "id": "85ebaef7-729c-48a1-aa42-6878b270829c",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T19:40:46.837235+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b6478061-55a2-4696-8ba2-118ec6157745": {
+    "id": "b6478061-55a2-4696-8ba2-118ec6157745",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-02T19:40:46.841161+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "216108e2-c193-4b78-a038-8c1eaf8adebb": {
+    "id": "216108e2-c193-4b78-a038-8c1eaf8adebb",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T19:40:46.846065+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c38a2e1d-eef2-4a35-aaa8-6eaa29e02caa": {
+    "id": "c38a2e1d-eef2-4a35-aaa8-6eaa29e02caa",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T19:40:46.849084+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b735273f-6557-4771-9bf2-62c310318140": {
+    "id": "b735273f-6557-4771-9bf2-62c310318140",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T19:40:46.852025+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1f46f452-62b6-467b-b10e-7c5b748026bf": {
+    "id": "1f46f452-62b6-467b-b10e-7c5b748026bf",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T19:40:46.855230+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "646177a8-b522-4087-ae6a-3c8c4ff72f73": {
+    "id": "646177a8-b522-4087-ae6a-3c8c4ff72f73",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T19:40:46.858307+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "462ae09a-908e-426b-8871-f1967ccbb211": {
+    "id": "462ae09a-908e-426b-8871-f1967ccbb211",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T19:40:46.861089+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6ba3a084-c4da-48e9-8d88-c33303a6c4f7": {
+    "id": "6ba3a084-c4da-48e9-8d88-c33303a6c4f7",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T19:40:46.863824+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5678ae38-33da-4f8d-bb43-cde5e88f4420": {
+    "id": "5678ae38-33da-4f8d-bb43-cde5e88f4420",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T19:40:46.866787+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9391e39a-9861-4b63-8fdb-1549aebd45cd": {
+    "id": "9391e39a-9861-4b63-8fdb-1549aebd45cd",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T19:40:46.870051+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6d2e45fb-752e-49d4-9080-cd16495ac135": {
+    "id": "6d2e45fb-752e-49d4-9080-cd16495ac135",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-02T19:40:46.872664+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8a1deee9-7d68-499c-9ca1-3bfac8801254": {
+    "id": "8a1deee9-7d68-499c-9ca1-3bfac8801254",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-03T18:32:51.356718+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c4e36cec-e752-40f3-96bc-9b53e057e2f1": {
+    "id": "c4e36cec-e752-40f3-96bc-9b53e057e2f1",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-03T18:32:51.361186+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9d9df5d0-9b90-43ce-8b32-fea584efce64": {
+    "id": "9d9df5d0-9b90-43ce-8b32-fea584efce64",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-03T18:32:51.365146+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "28177cfe-68f2-4c33-9c73-3bd7f82f6ce7": {
+    "id": "28177cfe-68f2-4c33-9c73-3bd7f82f6ce7",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-03T18:32:51.371930+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "24d50f87-12e7-408a-964e-e248c7386d5f": {
+    "id": "24d50f87-12e7-408a-964e-e248c7386d5f",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-03T18:32:51.376857+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "503a6967-f0dc-4dc7-9118-d2b8e8197fbe": {
+    "id": "503a6967-f0dc-4dc7-9118-d2b8e8197fbe",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-03T18:32:51.386691+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "80107c0d-c658-43a8-a5d6-a5619be376a9": {
+    "id": "80107c0d-c658-43a8-a5d6-a5619be376a9",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-03T18:32:51.395857+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "67940d21-0a7c-44ec-883f-ee3d159b1d94": {
+    "id": "67940d21-0a7c-44ec-883f-ee3d159b1d94",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-03T18:32:51.399135+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2948fd37-4830-4600-8eb0-94cfd3cde405": {
+    "id": "2948fd37-4830-4600-8eb0-94cfd3cde405",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-03T18:32:51.402306+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c31f626b-2062-4f14-a17a-91ffbfce84ee": {
+    "id": "c31f626b-2062-4f14-a17a-91ffbfce84ee",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-03T18:32:51.405391+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b3c81538-909d-4af8-a9c4-6066b69cb9f0": {
+    "id": "b3c81538-909d-4af8-a9c4-6066b69cb9f0",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-03T18:32:51.409134+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "bb6f8250-3f93-4d5f-9021-12be6a939b8a": {
+    "id": "bb6f8250-3f93-4d5f-9021-12be6a939b8a",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-03T18:32:51.415258+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "75762fd1-7e11-46ee-b1bc-ca9cb08673c3": {
+    "id": "75762fd1-7e11-46ee-b1bc-ca9cb08673c3",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-03T18:32:51.418269+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e2b63450-78c8-4cf3-a688-fe332d56e1d1": {
+    "id": "e2b63450-78c8-4cf3-a688-fe332d56e1d1",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-03T18:32:51.421484+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a9bf8cc3-9285-4f77-97e9-9294ad07bcb9": {
+    "id": "a9bf8cc3-9285-4f77-97e9-9294ad07bcb9",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-03T18:32:51.424536+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "631b21cd-99ba-4509-aa07-32136f4b9531": {
+    "id": "631b21cd-99ba-4509-aa07-32136f4b9531",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T05:30:06.121272+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f1b4e93a-dfe1-4f08-8363-89ceb5b2b146": {
+    "id": "f1b4e93a-dfe1-4f08-8363-89ceb5b2b146",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T05:30:06.126545+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b8f8cadd-2587-4b74-8073-79cf698bf451": {
+    "id": "b8f8cadd-2587-4b74-8073-79cf698bf451",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T05:30:06.131329+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e695ec37-5c69-4d89-9ecf-351889517523": {
+    "id": "e695ec37-5c69-4d89-9ecf-351889517523",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T05:30:06.136173+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7d7337f8-a689-4f98-b033-3c312fc41369": {
+    "id": "7d7337f8-a689-4f98-b033-3c312fc41369",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T05:30:06.140399+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5d5924ab-3544-44b4-8d6a-6c0a1c5728d5": {
+    "id": "5d5924ab-3544-44b4-8d6a-6c0a1c5728d5",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T05:30:06.147583+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "efa6fb7d-1be6-4183-a09b-520e3249ec5f": {
+    "id": "efa6fb7d-1be6-4183-a09b-520e3249ec5f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T05:30:06.153914+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "bae28e44-db83-4f00-8300-595171374fcb": {
+    "id": "bae28e44-db83-4f00-8300-595171374fcb",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T05:30:06.159755+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1bb9ae1c-307f-454d-b34d-5a98d71fa01e": {
+    "id": "1bb9ae1c-307f-454d-b34d-5a98d71fa01e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T05:30:06.167803+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b824bea1-61a3-4e2b-8d27-872203db1ff4": {
+    "id": "b824bea1-61a3-4e2b-8d27-872203db1ff4",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T05:30:06.183640+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "91d879c2-e019-47e0-883c-446d12058560": {
+    "id": "91d879c2-e019-47e0-883c-446d12058560",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T05:30:06.194012+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4d3f4f05-08bd-4c04-a718-a4f71cc8edc7": {
+    "id": "4d3f4f05-08bd-4c04-a718-a4f71cc8edc7",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T05:30:06.204541+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9ca1bd11-e7de-4152-98b1-9cc4abd19740": {
+    "id": "9ca1bd11-e7de-4152-98b1-9cc4abd19740",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T05:30:06.210736+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4731d23d-b8a4-46ba-b8b1-139fa415b3ce": {
+    "id": "4731d23d-b8a4-46ba-b8b1-139fa415b3ce",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T05:30:06.215401+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "08113d46-e4fe-47d1-a270-2cce9fb49721": {
+    "id": "08113d46-e4fe-47d1-a270-2cce9fb49721",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T05:30:06.221741+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6f6897a5-b51b-479b-8f64-17fc8488428f": {
+    "id": "6f6897a5-b51b-479b-8f64-17fc8488428f",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T12:36:57.617859+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c8e7223e-972d-4cd8-a322-367765871364": {
+    "id": "c8e7223e-972d-4cd8-a322-367765871364",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T12:36:57.623635+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0f78b83c-22ff-4bcd-b8b0-64f49eacd982": {
+    "id": "0f78b83c-22ff-4bcd-b8b0-64f49eacd982",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T12:36:57.634586+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "18706428-4856-4d59-b918-a09562a1d955": {
+    "id": "18706428-4856-4d59-b918-a09562a1d955",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T12:36:57.640627+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9150b82e-8543-40d4-a7d1-2b33b426dd4e": {
+    "id": "9150b82e-8543-40d4-a7d1-2b33b426dd4e",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T12:36:57.647429+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "fc8bb881-f6e9-465d-a77b-c38880be5938": {
+    "id": "fc8bb881-f6e9-465d-a77b-c38880be5938",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T12:36:57.663707+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "fa195875-2143-44fe-94f8-a11d28becf8e": {
+    "id": "fa195875-2143-44fe-94f8-a11d28becf8e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T12:36:57.670950+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1368a73a-59cc-4477-ac70-c165badbd73e": {
+    "id": "1368a73a-59cc-4477-ac70-c165badbd73e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T12:36:57.680466+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "db3d6a3f-0f7a-47f4-9bc1-0fbbae3271fd": {
+    "id": "db3d6a3f-0f7a-47f4-9bc1-0fbbae3271fd",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T12:36:57.691241+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8dd0df29-a9bb-4856-8602-a32dd2b54bc0": {
+    "id": "8dd0df29-a9bb-4856-8602-a32dd2b54bc0",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T12:36:57.708715+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6bc3e165-c540-4709-badc-5c0ce6aebdc0": {
+    "id": "6bc3e165-c540-4709-badc-5c0ce6aebdc0",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T12:36:57.736903+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "056ab3a5-f96e-4664-aa5e-a0ad1eb1f4bc": {
+    "id": "056ab3a5-f96e-4664-aa5e-a0ad1eb1f4bc",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T12:36:57.747583+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "06d63763-b796-4ee6-bde2-7a1779f311c1": {
+    "id": "06d63763-b796-4ee6-bde2-7a1779f311c1",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T12:36:57.753919+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "85cb2ae7-a86c-4514-8ffe-4f02d4503914": {
+    "id": "85cb2ae7-a86c-4514-8ffe-4f02d4503914",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T12:36:57.763581+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f0174e5a-237f-43f3-9fde-5d12d22bc746": {
+    "id": "f0174e5a-237f-43f3-9fde-5d12d22bc746",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T12:36:57.771670+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c06bb609-bcfd-4d56-92cb-9495c14d8372": {
+    "id": "c06bb609-bcfd-4d56-92cb-9495c14d8372",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T18:58:30.759905+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3c0e3378-5af6-44e8-95dd-e2396765f9b2": {
+    "id": "3c0e3378-5af6-44e8-95dd-e2396765f9b2",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T18:58:30.765540+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0657f6ce-8c7d-449b-863c-15c1d9e453de": {
+    "id": "0657f6ce-8c7d-449b-863c-15c1d9e453de",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T18:58:30.769430+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d7f9a4e4-b3ea-4c47-b724-dd403e256c7c": {
+    "id": "d7f9a4e4-b3ea-4c47-b724-dd403e256c7c",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T18:58:30.773646+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6ade4667-fd19-4c3f-8419-0ba9cb97913b": {
+    "id": "6ade4667-fd19-4c3f-8419-0ba9cb97913b",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T18:58:30.777263+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c895c3f8-1116-4500-9d30-084b71684ace": {
+    "id": "c895c3f8-1116-4500-9d30-084b71684ace",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:58:30.783003+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4136b20f-5943-42ba-b944-d43dca97c8c6": {
+    "id": "4136b20f-5943-42ba-b944-d43dca97c8c6",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:58:30.786123+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ffca5a3e-1cd5-42a2-8a84-8af29600f274": {
+    "id": "ffca5a3e-1cd5-42a2-8a84-8af29600f274",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:58:30.789428+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a68ab8b2-19a0-4a11-827d-ae9fddd6fcfe": {
+    "id": "a68ab8b2-19a0-4a11-827d-ae9fddd6fcfe",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:58:30.792514+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a3513417-3abb-418c-acf6-a450c9664726": {
+    "id": "a3513417-3abb-418c-acf6-a450c9664726",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:58:30.795762+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "bd94c3a3-5219-4875-b582-e37331f18408": {
+    "id": "bd94c3a3-5219-4875-b582-e37331f18408",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:58:30.798639+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5f299689-d522-4491-a430-8843d128d12f": {
+    "id": "5f299689-d522-4491-a430-8843d128d12f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:58:30.801304+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6546fc1e-82ce-46d4-a515-52cb17e937c2": {
+    "id": "6546fc1e-82ce-46d4-a515-52cb17e937c2",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:58:30.804369+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "309c776a-c266-4b04-8f98-425b1193e6ff": {
+    "id": "309c776a-c266-4b04-8f98-425b1193e6ff",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:58:30.807020+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "753d48c1-13b9-4652-9ef0-ac413f953054": {
+    "id": "753d48c1-13b9-4652-9ef0-ac413f953054",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:58:30.809916+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "dbf5b5d7-7618-4161-bfe9-e77274ebe276": {
+    "id": "dbf5b5d7-7618-4161-bfe9-e77274ebe276",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T18:59:13.507298+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c337f8b8-d4f8-413c-a1a5-c5a22db69262": {
+    "id": "c337f8b8-d4f8-413c-a1a5-c5a22db69262",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T18:59:13.511452+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6b181732-1205-4145-abdb-fe8b9b107b58": {
+    "id": "6b181732-1205-4145-abdb-fe8b9b107b58",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T18:59:13.515255+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "770d4b5e-3ed8-48c7-8634-a6c0fa50bbfb": {
+    "id": "770d4b5e-3ed8-48c7-8634-a6c0fa50bbfb",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T18:59:13.518783+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "59e4babd-09e6-4d3a-bc89-c10d941b0fce": {
+    "id": "59e4babd-09e6-4d3a-bc89-c10d941b0fce",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T18:59:13.522208+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e98a878b-cfd5-4ce6-9965-cb259bfa5512": {
+    "id": "e98a878b-cfd5-4ce6-9965-cb259bfa5512",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:59:13.527938+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "63655fa4-6b4d-4db7-a84b-3c780fbc1274": {
+    "id": "63655fa4-6b4d-4db7-a84b-3c780fbc1274",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:59:13.534319+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "84cd4ae8-a557-4e2d-b3e8-54024cccf3e2": {
+    "id": "84cd4ae8-a557-4e2d-b3e8-54024cccf3e2",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:59:13.538093+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6dba01a1-a0e5-466a-8a54-e91468acf865": {
+    "id": "6dba01a1-a0e5-466a-8a54-e91468acf865",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:59:13.542077+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "edcaa546-cb0e-468c-bea3-ecd623ecae03": {
+    "id": "edcaa546-cb0e-468c-bea3-ecd623ecae03",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:59:13.545059+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "98b8367e-87a7-4ed0-b817-958233a045df": {
+    "id": "98b8367e-87a7-4ed0-b817-958233a045df",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:59:13.547824+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6f19476f-8760-4b15-a253-5c4d18d09504": {
+    "id": "6f19476f-8760-4b15-a253-5c4d18d09504",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:59:13.551213+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "50ec4b46-4b1e-4a80-8e46-ac1a7bc8e6a7": {
+    "id": "50ec4b46-4b1e-4a80-8e46-ac1a7bc8e6a7",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:59:13.554250+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e56c1a5d-107d-4250-9228-8b659e1d2732": {
+    "id": "e56c1a5d-107d-4250-9228-8b659e1d2732",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:59:13.557433+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6877dc0f-fb4d-4948-86b9-f3e097d4cd29": {
+    "id": "6877dc0f-fb4d-4948-86b9-f3e097d4cd29",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T18:59:13.560238+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "05e3813a-8aed-4a4a-8003-1af022cf8cba": {
+    "id": "05e3813a-8aed-4a4a-8003-1af022cf8cba",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T19:04:21.997409+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7c757333-2d38-409f-8976-23946efa0ea8": {
+    "id": "7c757333-2d38-409f-8976-23946efa0ea8",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T19:04:22.007790+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2231e656-3243-4196-bb57-f4dcd5d2e61b": {
+    "id": "2231e656-3243-4196-bb57-f4dcd5d2e61b",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T19:04:22.018806+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "93446189-1104-4bd5-b9a9-80b8cdb15350": {
+    "id": "93446189-1104-4bd5-b9a9-80b8cdb15350",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T19:04:22.028652+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c4c6c3b8-f6f7-416c-b266-caf6db27aaeb": {
+    "id": "c4c6c3b8-f6f7-416c-b266-caf6db27aaeb",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T19:04:22.035615+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8d4be3ca-1b0e-4b1b-a7f5-2c6e3f11ed30": {
+    "id": "8d4be3ca-1b0e-4b1b-a7f5-2c6e3f11ed30",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T19:04:22.051800+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "575bf424-b61a-4771-9095-b5452e094e8f": {
+    "id": "575bf424-b61a-4771-9095-b5452e094e8f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T19:04:22.061775+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "893102ed-c70c-4495-95d5-93e473cde235": {
+    "id": "893102ed-c70c-4495-95d5-93e473cde235",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T19:04:22.069973+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "16ed2658-3bd0-420b-9a9e-e6da5587c425": {
+    "id": "16ed2658-3bd0-420b-9a9e-e6da5587c425",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T19:04:22.073896+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d884e63f-d63b-4e7c-bbc2-e21bb92cac39": {
+    "id": "d884e63f-d63b-4e7c-bbc2-e21bb92cac39",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T19:04:22.076877+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "25025195-a864-45cf-b1eb-a48ebb320dc3": {
+    "id": "25025195-a864-45cf-b1eb-a48ebb320dc3",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T19:04:22.082414+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8c6ec23e-da4b-4d94-b6dc-c460b1e0a018": {
+    "id": "8c6ec23e-da4b-4d94-b6dc-c460b1e0a018",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T19:04:22.093627+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "cb9b91be-3fc6-46b1-b05f-068592995e4e": {
+    "id": "cb9b91be-3fc6-46b1-b05f-068592995e4e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T19:04:22.098126+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3a48056b-1a28-4331-a5de-2111f4e37e70": {
+    "id": "3a48056b-1a28-4331-a5de-2111f4e37e70",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T19:04:22.101740+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f9004db9-a945-4afd-9b5a-d377c11e380f": {
+    "id": "f9004db9-a945-4afd-9b5a-d377c11e380f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T19:04:22.106637+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4ed0098d-9df1-4862-95be-753779430866": {
+    "id": "4ed0098d-9df1-4862-95be-753779430866",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T20:11:46.751780+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0e4a93c8-b728-4d95-97cc-9696f9e3824b": {
+    "id": "0e4a93c8-b728-4d95-97cc-9696f9e3824b",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T20:11:46.768460+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "dca854e1-33ca-4775-ba11-4d2165ef2d70": {
+    "id": "dca854e1-33ca-4775-ba11-4d2165ef2d70",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T20:11:46.795055+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2233dc3e-2014-405b-977b-8ba8851ff896": {
+    "id": "2233dc3e-2014-405b-977b-8ba8851ff896",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T20:11:46.799859+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8642493c-0353-42cb-9f88-048f8f409086": {
+    "id": "8642493c-0353-42cb-9f88-048f8f409086",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T20:11:46.804105+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2a62df26-debe-408d-9728-8390849651f6": {
+    "id": "2a62df26-debe-408d-9728-8390849651f6",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:11:46.812833+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d95f6778-df3e-4d5a-916b-385190a50777": {
+    "id": "d95f6778-df3e-4d5a-916b-385190a50777",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:11:46.823241+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c4e8746a-185d-407a-92e8-e2fb6b14b07c": {
+    "id": "c4e8746a-185d-407a-92e8-e2fb6b14b07c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:11:46.832741+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d88b5670-6b99-404b-a2f1-14f8587532e8": {
+    "id": "d88b5670-6b99-404b-a2f1-14f8587532e8",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:11:46.837719+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1ada467c-1ed6-4661-88b5-6301a37d01a9": {
+    "id": "1ada467c-1ed6-4661-88b5-6301a37d01a9",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:11:46.842577+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9f324ed3-ef04-4d38-b86f-b41b48f1d99a": {
+    "id": "9f324ed3-ef04-4d38-b86f-b41b48f1d99a",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:11:46.846930+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3613238f-c5a1-44f2-a99f-5fc5a39b1d11": {
+    "id": "3613238f-c5a1-44f2-a99f-5fc5a39b1d11",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:11:46.853230+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5f295fec-496a-4726-997c-b7eb4176d707": {
+    "id": "5f295fec-496a-4726-997c-b7eb4176d707",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:11:46.857625+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ce8e92f9-51bf-4f1c-9ada-019ed8c1f26c": {
+    "id": "ce8e92f9-51bf-4f1c-9ada-019ed8c1f26c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:11:46.862986+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "07cc98a1-6d6e-421e-b5fd-f23e70b3b5c5": {
+    "id": "07cc98a1-6d6e-421e-b5fd-f23e70b3b5c5",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:11:46.869973+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e2f59160-d631-443e-8a0b-a3c84b786456": {
+    "id": "e2f59160-d631-443e-8a0b-a3c84b786456",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T20:56:34.035878+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a924e95a-59bc-4a51-bb1a-f11c9f03d509": {
+    "id": "a924e95a-59bc-4a51-bb1a-f11c9f03d509",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T20:56:34.042670+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "fc273d76-4fc7-4497-822f-a8c4f7072ee3": {
+    "id": "fc273d76-4fc7-4497-822f-a8c4f7072ee3",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T20:56:34.048009+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f49c43fe-238c-4df7-b834-f94b48d12203": {
+    "id": "f49c43fe-238c-4df7-b834-f94b48d12203",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T20:56:34.052518+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1945f835-997e-4a09-952b-3a4e7c151f81": {
+    "id": "1945f835-997e-4a09-952b-3a4e7c151f81",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T20:56:34.058980+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1ccf0a27-7560-4572-aa3c-fca5830b9970": {
+    "id": "1ccf0a27-7560-4572-aa3c-fca5830b9970",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:56:34.070758+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c974b965-00d2-4f3b-a28f-c8d5f85c0eeb": {
+    "id": "c974b965-00d2-4f3b-a28f-c8d5f85c0eeb",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:56:34.080874+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "edc0f016-a29d-4aa9-8ca5-56464c68f58a": {
+    "id": "edc0f016-a29d-4aa9-8ca5-56464c68f58a",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:56:34.086556+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ece8e1ca-1719-4cb5-a47d-a13ffa30705d": {
+    "id": "ece8e1ca-1719-4cb5-a47d-a13ffa30705d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:56:34.091025+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e325943b-9a49-408c-affe-17c81ab5ca1e": {
+    "id": "e325943b-9a49-408c-affe-17c81ab5ca1e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:56:34.094661+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "32d742b0-e812-47b9-b0e7-c51ba629c0af": {
+    "id": "32d742b0-e812-47b9-b0e7-c51ba629c0af",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:56:34.103362+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b56169b8-b3ef-454f-adb9-3c8c0f4567b3": {
+    "id": "b56169b8-b3ef-454f-adb9-3c8c0f4567b3",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:56:34.107683+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "04d85f46-cea4-4567-9072-762f20d77b1c": {
+    "id": "04d85f46-cea4-4567-9072-762f20d77b1c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:56:34.111133+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "91b0ebba-e454-4506-b87f-219b87599b83": {
+    "id": "91b0ebba-e454-4506-b87f-219b87599b83",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:56:34.115253+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a1a4a0f7-5791-456d-a946-eb85c4cace1f": {
+    "id": "a1a4a0f7-5791-456d-a946-eb85c4cace1f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T20:56:34.118793+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "aef1d7ce-c360-4dbb-b79d-1d2572783b8b": {
+    "id": "aef1d7ce-c360-4dbb-b79d-1d2572783b8b",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T21:07:45.480318+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6153bc49-67ad-4954-b7ea-d302d9697dcd": {
+    "id": "6153bc49-67ad-4954-b7ea-d302d9697dcd",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T21:07:45.484829+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "96578826-8d1b-41ac-be5a-a95601dc8784": {
+    "id": "96578826-8d1b-41ac-be5a-a95601dc8784",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T21:07:45.506325+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ff67ba00-6fce-45f0-9bf2-600a53d517a4": {
+    "id": "ff67ba00-6fce-45f0-9bf2-600a53d517a4",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T21:07:45.510376+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3a874786-64d4-4742-aae2-4ca71b490605": {
+    "id": "3a874786-64d4-4742-aae2-4ca71b490605",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-08T21:07:45.514542+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "75447465-e2d4-4fa8-a594-640d4491ee03": {
+    "id": "75447465-e2d4-4fa8-a594-640d4491ee03",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T21:07:45.520513+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "918d63e3-d863-4c57-916d-ae58b59f3d7c": {
+    "id": "918d63e3-d863-4c57-916d-ae58b59f3d7c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T21:07:45.524679+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1c9f90b0-1e71-4f09-8eb7-a12450fd59dd": {
+    "id": "1c9f90b0-1e71-4f09-8eb7-a12450fd59dd",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T21:07:45.528625+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c10063eb-7e19-4d5c-a601-afc9b2d3f6d0": {
+    "id": "c10063eb-7e19-4d5c-a601-afc9b2d3f6d0",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T21:07:45.532253+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ccd5ebc5-00d0-431b-b437-89e0bfde8a75": {
+    "id": "ccd5ebc5-00d0-431b-b437-89e0bfde8a75",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T21:07:45.536293+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "cde4d31f-0021-42fd-ab4b-f16550f22a94": {
+    "id": "cde4d31f-0021-42fd-ab4b-f16550f22a94",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T21:07:45.539888+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "621bec7f-bba8-49f9-931b-7b4eeab7decc": {
+    "id": "621bec7f-bba8-49f9-931b-7b4eeab7decc",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T21:07:45.543702+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3aa3edc3-f439-4e4a-b80b-16e8e6e28c61": {
+    "id": "3aa3edc3-f439-4e4a-b80b-16e8e6e28c61",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T21:07:45.547345+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5c348783-b966-45cc-b6cc-a3247a3dea7e": {
+    "id": "5c348783-b966-45cc-b6cc-a3247a3dea7e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T21:07:45.551776+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a1d88ba2-f26a-42b7-a4e5-74ad68630b0b": {
+    "id": "a1d88ba2-f26a-42b7-a4e5-74ad68630b0b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-08T21:07:45.555220+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1355ee0a-33ed-4703-8242-63dc583c5306": {
+    "id": "1355ee0a-33ed-4703-8242-63dc583c5306",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-09T04:08:35.480720+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2772a835-0d19-461b-b649-41698a52bf28": {
+    "id": "2772a835-0d19-461b-b649-41698a52bf28",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-09T04:08:35.484543+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "39b33c6c-bdc6-485b-a3bf-2afdf86abe7b": {
+    "id": "39b33c6c-bdc6-485b-a3bf-2afdf86abe7b",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-09T04:08:35.492822+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9693ab88-3fdc-4540-a698-beee31a701e6": {
+    "id": "9693ab88-3fdc-4540-a698-beee31a701e6",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-09T04:08:35.498719+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0bc29793-6abe-479f-9d90-70146a930605": {
+    "id": "0bc29793-6abe-479f-9d90-70146a930605",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-09T04:08:35.502697+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "20144bdc-c6ec-4ae1-ab1d-f4d2a8c898f7": {
+    "id": "20144bdc-c6ec-4ae1-ab1d-f4d2a8c898f7",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-09T04:08:35.507989+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "fa20cfc3-a6ca-4236-983b-555118ec37fd": {
+    "id": "fa20cfc3-a6ca-4236-983b-555118ec37fd",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-09T04:08:35.512470+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4d4c2c7c-be59-4ccf-a6c4-7f6aa25ac5cf": {
+    "id": "4d4c2c7c-be59-4ccf-a6c4-7f6aa25ac5cf",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-09T04:08:35.516651+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e29ad11d-492f-4c21-9b3c-ace1d7d32c7b": {
+    "id": "e29ad11d-492f-4c21-9b3c-ace1d7d32c7b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-09T04:08:35.521194+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "00325edc-ebfb-41a1-bb18-b40050813ecc": {
+    "id": "00325edc-ebfb-41a1-bb18-b40050813ecc",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-09T04:08:35.524653+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "71950dd9-58c5-4125-9043-1619a44dfac7": {
+    "id": "71950dd9-58c5-4125-9043-1619a44dfac7",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-09T04:08:35.528042+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7c357ba6-f8b6-4f58-9d4f-d0fb879befed": {
+    "id": "7c357ba6-f8b6-4f58-9d4f-d0fb879befed",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-09T04:08:35.531564+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3feda70c-5d11-4fb2-8112-943dd11c1d7b": {
+    "id": "3feda70c-5d11-4fb2-8112-943dd11c1d7b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-09T04:08:35.535254+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f577956c-3cd5-4d2b-aae8-c7c81c74068f": {
+    "id": "f577956c-3cd5-4d2b-aae8-c7c81c74068f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-09T04:08:35.539735+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "91aa9dfe-43bc-4d4a-982f-df0d0afed189": {
+    "id": "91aa9dfe-43bc-4d4a-982f-df0d0afed189",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-09T04:08:35.543557+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8a47d918-6df5-4a88-9888-85fcd2dcbb5f": {
+    "id": "8a47d918-6df5-4a88-9888-85fcd2dcbb5f",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-10T13:12:30.537122+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7a1aa1e0-c3e5-409e-b6ad-62547d6318dd": {
+    "id": "7a1aa1e0-c3e5-409e-b6ad-62547d6318dd",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-10T13:12:30.543296+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a2628232-60e2-469e-b245-b21f5e72da2f": {
+    "id": "a2628232-60e2-469e-b245-b21f5e72da2f",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-10T13:12:30.550972+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e9b28f0c-f6d2-4e9e-9f8a-ae7fe8a58aee": {
+    "id": "e9b28f0c-f6d2-4e9e-9f8a-ae7fe8a58aee",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-10T13:12:30.557320+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "43322958-61fe-4344-a601-729c4be664dd": {
+    "id": "43322958-61fe-4344-a601-729c4be664dd",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-10T13:12:30.563873+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5942eea2-77b7-4c94-8cb9-4320e6d92a8b": {
+    "id": "5942eea2-77b7-4c94-8cb9-4320e6d92a8b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-10T13:12:30.571150+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5f98acc6-3cfe-478f-a451-0703c3d2d7d4": {
+    "id": "5f98acc6-3cfe-478f-a451-0703c3d2d7d4",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-10T13:12:30.576073+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b2521938-0fc6-4bf0-9c8f-bcd53a353862": {
+    "id": "b2521938-0fc6-4bf0-9c8f-bcd53a353862",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-10T13:12:30.581109+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "8c8b26a2-bf8b-4892-b0f4-d47487907916": {
+    "id": "8c8b26a2-bf8b-4892-b0f4-d47487907916",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-10T13:12:30.586999+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2385e7eb-847f-47b1-a4bd-efb41376fdd5": {
+    "id": "2385e7eb-847f-47b1-a4bd-efb41376fdd5",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-10T13:12:30.593408+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "de533c8e-3f63-4a64-96ca-86b51e896f8b": {
+    "id": "de533c8e-3f63-4a64-96ca-86b51e896f8b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-10T13:12:30.618198+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "185b3abd-cc16-4d9f-bafd-745edf9137c9": {
+    "id": "185b3abd-cc16-4d9f-bafd-745edf9137c9",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-10T13:12:30.623720+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "eb7bf202-ead8-4efa-b319-4c2e20fc3e5e": {
+    "id": "eb7bf202-ead8-4efa-b319-4c2e20fc3e5e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-10T13:12:30.628598+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "458ffbcd-fd06-4dd6-853a-bd08858ad382": {
+    "id": "458ffbcd-fd06-4dd6-853a-bd08858ad382",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-10T13:12:30.633931+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "fe0e71ca-faa6-498c-9719-053e19810286": {
+    "id": "fe0e71ca-faa6-498c-9719-053e19810286",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-10T13:12:30.638250+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "272e4b12-7c4f-4f33-abc9-66c9f035e9d3": {
+    "id": "272e4b12-7c4f-4f33-abc9-66c9f035e9d3",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-11T06:41:39.089550+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e58d6c9a-b7bc-41f8-8c7f-9fe87a87e280": {
+    "id": "e58d6c9a-b7bc-41f8-8c7f-9fe87a87e280",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-11T06:41:39.095874+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d950371c-dbc4-443a-ace2-f657caab012d": {
+    "id": "d950371c-dbc4-443a-ace2-f657caab012d",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-11T06:41:39.101272+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "da8569dc-c020-4836-bbcc-04f9fc9db3f6": {
+    "id": "da8569dc-c020-4836-bbcc-04f9fc9db3f6",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-11T06:41:39.107415+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e710d5b9-f6f2-4f4a-bb79-6256ddc4d68e": {
+    "id": "e710d5b9-f6f2-4f4a-bb79-6256ddc4d68e",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-11T06:41:39.112727+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5db91a42-1108-4eff-b9d4-e7efc21fc754": {
+    "id": "5db91a42-1108-4eff-b9d4-e7efc21fc754",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T06:41:39.119324+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "73989617-2309-4161-9477-891efaabae5a": {
+    "id": "73989617-2309-4161-9477-891efaabae5a",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T06:41:39.124756+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "76e46ffb-ed1e-4414-92b6-32ae66b53fb0": {
+    "id": "76e46ffb-ed1e-4414-92b6-32ae66b53fb0",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T06:41:39.128690+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "af50b1db-3f00-4d7a-9eb2-6d497435e6df": {
+    "id": "af50b1db-3f00-4d7a-9eb2-6d497435e6df",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T06:41:39.132737+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c9755bf0-2a0b-4d39-b081-59be35aa8c51": {
+    "id": "c9755bf0-2a0b-4d39-b081-59be35aa8c51",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T06:41:39.136842+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4758d429-e4c6-40e8-b039-b4ed87d78231": {
+    "id": "4758d429-e4c6-40e8-b039-b4ed87d78231",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T06:41:39.140999+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5452fbbd-8bfb-4da6-bf88-4e98938d8013": {
+    "id": "5452fbbd-8bfb-4da6-bf88-4e98938d8013",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T06:41:39.144889+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "fa9d1636-384b-4a71-938c-bfa16f41d51e": {
+    "id": "fa9d1636-384b-4a71-938c-bfa16f41d51e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T06:41:39.149017+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e8d2cc18-9098-4ec6-b82f-e1915b084737": {
+    "id": "e8d2cc18-9098-4ec6-b82f-e1915b084737",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T06:41:39.152779+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c95480b4-4570-4f5f-a582-0b9c8f63da8a": {
+    "id": "c95480b4-4570-4f5f-a582-0b9c8f63da8a",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T06:41:39.157578+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4f8dee03-1afe-4847-991a-92eecc9d030c": {
+    "id": "4f8dee03-1afe-4847-991a-92eecc9d030c",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-11T16:17:41.310505+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e0e92e8a-07b4-42e2-8864-c802461ee610": {
+    "id": "e0e92e8a-07b4-42e2-8864-c802461ee610",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-11T16:17:41.316340+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5ad33549-c89e-41f0-8860-f0cdd028b767": {
+    "id": "5ad33549-c89e-41f0-8860-f0cdd028b767",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-11T16:17:41.321496+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "98a0a8d8-76d7-4331-9474-07e764fc777b": {
+    "id": "98a0a8d8-76d7-4331-9474-07e764fc777b",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-11T16:17:41.326435+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e79f48e6-8a87-48f9-8f49-60e989fbfa85": {
+    "id": "e79f48e6-8a87-48f9-8f49-60e989fbfa85",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-11T16:17:41.331072+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a767eda4-f349-48ad-9b60-9383fa74aa38": {
+    "id": "a767eda4-f349-48ad-9b60-9383fa74aa38",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T16:17:41.338109+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9bbe6bef-c49c-46f7-b42b-120f031b31ef": {
+    "id": "9bbe6bef-c49c-46f7-b42b-120f031b31ef",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T16:17:41.342585+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a2747a94-6254-49f3-8c79-314a4b07d46d": {
+    "id": "a2747a94-6254-49f3-8c79-314a4b07d46d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T16:17:41.346459+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3c8841bf-11ba-4113-8f1b-ecd687af69b4": {
+    "id": "3c8841bf-11ba-4113-8f1b-ecd687af69b4",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T16:17:41.350441+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "afd7cdc1-3fc5-4d23-bdab-899fbdb67328": {
+    "id": "afd7cdc1-3fc5-4d23-bdab-899fbdb67328",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T16:17:41.354454+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b9edd732-286f-41bd-8f94-c1c37c88b6a4": {
+    "id": "b9edd732-286f-41bd-8f94-c1c37c88b6a4",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T16:17:41.358479+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d5ecbaaa-f73c-4574-8024-3d2219a1e253": {
+    "id": "d5ecbaaa-f73c-4574-8024-3d2219a1e253",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T16:17:41.362482+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "39a97505-9e59-4520-960a-630b0164f651": {
+    "id": "39a97505-9e59-4520-960a-630b0164f651",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T16:17:41.366581+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "74f00db1-247e-4d51-856d-771d30d57e92": {
+    "id": "74f00db1-247e-4d51-856d-771d30d57e92",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T16:17:41.370387+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "002db631-14d6-4b24-aedd-3b353b3c8296": {
+    "id": "002db631-14d6-4b24-aedd-3b353b3c8296",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-11T16:17:41.373953+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0623a711-8465-4175-84fb-026f14f34c60": {
+    "id": "0623a711-8465-4175-84fb-026f14f34c60",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-12T04:30:04.801616+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "416e9833-0e07-40dc-82e0-263d35a2d064": {
+    "id": "416e9833-0e07-40dc-82e0-263d35a2d064",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-12T04:30:04.808348+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9dec9ab6-fc55-4440-944c-1a8a5ed909db": {
+    "id": "9dec9ab6-fc55-4440-944c-1a8a5ed909db",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-12T04:30:04.813530+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6dbae188-ca20-4659-b009-b2e0c2abd0ed": {
+    "id": "6dbae188-ca20-4659-b009-b2e0c2abd0ed",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-12T04:30:04.818106+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "6dcdf789-f030-4b9c-bc86-c540a1474f9d": {
+    "id": "6dcdf789-f030-4b9c-bc86-c540a1474f9d",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-12T04:30:04.822791+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "83c669a1-208d-435e-a882-743f349eabc9": {
+    "id": "83c669a1-208d-435e-a882-743f349eabc9",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T04:30:04.829137+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9b9d70d9-f8c1-4eb9-8465-c3fe79a24dd0": {
+    "id": "9b9d70d9-f8c1-4eb9-8465-c3fe79a24dd0",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T04:30:04.834089+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a9a0317f-ebde-4618-8bfd-c81622682e87": {
+    "id": "a9a0317f-ebde-4618-8bfd-c81622682e87",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T04:30:04.839200+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c1d1245b-03ce-4e52-ae24-15bb0c07c806": {
+    "id": "c1d1245b-03ce-4e52-ae24-15bb0c07c806",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T04:30:04.843820+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e5f73307-c227-46fb-b3e0-7ea5c337c8a9": {
+    "id": "e5f73307-c227-46fb-b3e0-7ea5c337c8a9",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T04:30:04.850702+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "92116879-32d5-4e07-b6c1-3f22b64f3442": {
+    "id": "92116879-32d5-4e07-b6c1-3f22b64f3442",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T04:30:04.856758+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c3ceb63b-62a2-4159-b29c-5aaee7532c7e": {
+    "id": "c3ceb63b-62a2-4159-b29c-5aaee7532c7e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T04:30:04.861548+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0b3f36cc-7c83-4e89-b778-c9af1df1c41f": {
+    "id": "0b3f36cc-7c83-4e89-b778-c9af1df1c41f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T04:30:04.875160+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "85d987e4-6bb9-41d0-ac82-c4c3717acb49": {
+    "id": "85d987e4-6bb9-41d0-ac82-c4c3717acb49",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T04:30:04.888478+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "66e63037-8c0f-4055-b2af-1fdfefe6d1bf": {
+    "id": "66e63037-8c0f-4055-b2af-1fdfefe6d1bf",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T04:30:04.893011+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1993e2dc-a3bc-4637-800b-3263107550fe": {
+    "id": "1993e2dc-a3bc-4637-800b-3263107550fe",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-12T05:10:23.595457+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3d7b7ee4-62da-4530-9e5f-0bb160779b2c": {
+    "id": "3d7b7ee4-62da-4530-9e5f-0bb160779b2c",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-12T05:10:23.601477+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f85daffd-721b-4b6e-ac13-916ce296b4af": {
+    "id": "f85daffd-721b-4b6e-ac13-916ce296b4af",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-12T05:10:23.610026+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "02bf0699-a556-45aa-ab1a-57a24dcbd1a0": {
+    "id": "02bf0699-a556-45aa-ab1a-57a24dcbd1a0",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-12T05:10:23.614038+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7dfe6aae-b4bd-408e-b922-e6bef3ce90f3": {
+    "id": "7dfe6aae-b4bd-408e-b922-e6bef3ce90f3",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-12T05:10:23.618428+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e196202a-3aed-4828-92be-0d05b87e9e1d": {
+    "id": "e196202a-3aed-4828-92be-0d05b87e9e1d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T05:10:23.624594+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "faeb96fa-c1c8-41a3-8783-96ade29679b4": {
+    "id": "faeb96fa-c1c8-41a3-8783-96ade29679b4",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T05:10:23.628896+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ea1fbae3-35ec-4229-b7de-bff88ef6ee02": {
+    "id": "ea1fbae3-35ec-4229-b7de-bff88ef6ee02",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T05:10:23.634126+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2b5db2b4-902c-443b-97e6-0330fe3ad4a9": {
+    "id": "2b5db2b4-902c-443b-97e6-0330fe3ad4a9",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T05:10:23.638297+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "af244119-171f-48c6-ae9b-082b8bca080d": {
+    "id": "af244119-171f-48c6-ae9b-082b8bca080d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T05:10:23.642525+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3d3d46ab-bc68-4e21-a4b7-59566e89b918": {
+    "id": "3d3d46ab-bc68-4e21-a4b7-59566e89b918",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T05:10:23.646831+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "772c4638-15ad-4fa0-83aa-72c8b03765ac": {
+    "id": "772c4638-15ad-4fa0-83aa-72c8b03765ac",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T05:10:23.651330+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "39ee0cbf-5234-4c9a-8252-d058c2bf21e3": {
+    "id": "39ee0cbf-5234-4c9a-8252-d058c2bf21e3",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T05:10:23.655555+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "cf533270-a390-4f3d-b2c3-b5134989c330": {
+    "id": "cf533270-a390-4f3d-b2c3-b5134989c330",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T05:10:23.659874+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "dae9dd4e-fa92-4cc4-8131-06e7d7b84607": {
+    "id": "dae9dd4e-fa92-4cc4-8131-06e7d7b84607",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-12T05:10:23.664307+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "231f8cae-669e-4426-801e-100a43cef15e": {
+    "id": "231f8cae-669e-4426-801e-100a43cef15e",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-14T10:44:38.262247+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "479c3475-e97b-4bfa-b4c8-b0e53cfb0f18": {
+    "id": "479c3475-e97b-4bfa-b4c8-b0e53cfb0f18",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-14T10:44:38.266168+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "0e377591-f56a-4d1b-946d-ce606cdc4c73": {
+    "id": "0e377591-f56a-4d1b-946d-ce606cdc4c73",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-14T10:44:38.269896+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7404d8c8-6e60-492e-bc78-e8144708fbbd": {
+    "id": "7404d8c8-6e60-492e-bc78-e8144708fbbd",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-14T10:44:38.273869+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e86f583e-4195-4dc5-9544-ef5641cc9207": {
+    "id": "e86f583e-4195-4dc5-9544-ef5641cc9207",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-14T10:44:38.277741+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "bb884ed6-270a-48a7-9110-022c154fb4c7": {
+    "id": "bb884ed6-270a-48a7-9110-022c154fb4c7",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T10:44:38.282968+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ea9670c8-0c10-4257-918a-b94b15dc0e42": {
+    "id": "ea9670c8-0c10-4257-918a-b94b15dc0e42",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T10:44:38.286916+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c8ce5ce5-6b0a-4e5b-8775-1c9357b45769": {
+    "id": "c8ce5ce5-6b0a-4e5b-8775-1c9357b45769",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T10:44:38.291370+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "723b6fe0-a1ca-41f8-92fd-1d6baa104b60": {
+    "id": "723b6fe0-a1ca-41f8-92fd-1d6baa104b60",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T10:44:38.294824+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "09db0d25-4a7c-42bb-b79b-45f9dfd20fbb": {
+    "id": "09db0d25-4a7c-42bb-b79b-45f9dfd20fbb",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T10:44:38.298451+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4432dd50-6f4d-45f3-be46-0b62865075bc": {
+    "id": "4432dd50-6f4d-45f3-be46-0b62865075bc",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T10:44:38.302700+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "19d50db2-addc-478d-815a-6931637568e1": {
+    "id": "19d50db2-addc-478d-815a-6931637568e1",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T10:44:38.306411+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7dff2377-543f-476b-8dfa-8a2a93e13763": {
+    "id": "7dff2377-543f-476b-8dfa-8a2a93e13763",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T10:44:38.309929+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2ba8fd35-67bb-433e-952f-ac530602d540": {
+    "id": "2ba8fd35-67bb-433e-952f-ac530602d540",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T10:44:38.313790+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2ec4ab8e-5765-479a-9fb9-21f0547b588a": {
+    "id": "2ec4ab8e-5765-479a-9fb9-21f0547b588a",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T10:44:38.317995+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "be868609-3275-4aa3-ab17-dd4f3a66a8e6": {
+    "id": "be868609-3275-4aa3-ab17-dd4f3a66a8e6",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-14T11:13:47.190659+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "292790b9-78ac-4613-9e55-9c35fcb79e88": {
+    "id": "292790b9-78ac-4613-9e55-9c35fcb79e88",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-14T11:13:47.195014+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "cc1c7a05-4932-4cf8-8ae4-d493fe99a556": {
+    "id": "cc1c7a05-4932-4cf8-8ae4-d493fe99a556",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-14T11:13:47.199530+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "001aaf17-9e05-4479-ba3d-19ef28467203": {
+    "id": "001aaf17-9e05-4479-ba3d-19ef28467203",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-14T11:13:47.203540+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "cc7d7018-7d03-4a1f-a110-fab2d097d6fb": {
+    "id": "cc7d7018-7d03-4a1f-a110-fab2d097d6fb",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-14T11:13:47.207268+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "866f640f-093c-47f2-bd20-7850e87a9e89": {
+    "id": "866f640f-093c-47f2-bd20-7850e87a9e89",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T11:13:47.212750+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "850181b9-69f9-46d5-8431-3ea04b57bb03": {
+    "id": "850181b9-69f9-46d5-8431-3ea04b57bb03",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T11:13:47.216483+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "115a0cd4-0598-421b-b54c-38a73d92d9e2": {
+    "id": "115a0cd4-0598-421b-b54c-38a73d92d9e2",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T11:13:47.220582+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "047bf9ff-1559-49c3-9777-783a3e16f253": {
+    "id": "047bf9ff-1559-49c3-9777-783a3e16f253",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T11:13:47.224198+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "797f38da-c9fb-4fc5-a135-485171785fe0": {
+    "id": "797f38da-c9fb-4fc5-a135-485171785fe0",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T11:13:47.227897+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "364eafc7-6028-4a2d-a9e6-705d501ca0f5": {
+    "id": "364eafc7-6028-4a2d-a9e6-705d501ca0f5",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T11:13:47.231490+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "9b1ac92e-097f-4d8f-a280-0a00a7ee9cb9": {
+    "id": "9b1ac92e-097f-4d8f-a280-0a00a7ee9cb9",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T11:13:47.235255+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "50f6c0f0-9b48-4de5-8881-6a8ed35318de": {
+    "id": "50f6c0f0-9b48-4de5-8881-6a8ed35318de",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T11:13:47.238836+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f48e7130-20f9-4a06-9938-0cd738cee717": {
+    "id": "f48e7130-20f9-4a06-9938-0cd738cee717",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T11:13:47.242982+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "92d931ac-dde6-4404-8755-e6be5d28ff8b": {
+    "id": "92d931ac-dde6-4404-8755-e6be5d28ff8b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T11:13:47.246691+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "63d1e50d-1367-4e39-83c1-6ce4ae069446": {
+    "id": "63d1e50d-1367-4e39-83c1-6ce4ae069446",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-14T16:51:48.847638+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "dbdfca50-c507-420a-a7ac-e97e9b09ff7b": {
+    "id": "dbdfca50-c507-420a-a7ac-e97e9b09ff7b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T16:51:48.857860+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e1c6b24e-f0bc-4ac4-b5a7-8f73c63c8ff6": {
+    "id": "e1c6b24e-f0bc-4ac4-b5a7-8f73c63c8ff6",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-14T17:03:36.307012+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "691d9b55-d4a8-4fcd-b0aa-8f09687ad610": {
+    "id": "691d9b55-d4a8-4fcd-b0aa-8f09687ad610",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-14T17:03:36.317322+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "487654fd-a9d1-4561-a471-fad69c43379f": {
+    "id": "487654fd-a9d1-4561-a471-fad69c43379f",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-15T05:58:01.180144+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "64943bf4-3a93-4cdc-aba4-f7cd11e6e922": {
+    "id": "64943bf4-3a93-4cdc-aba4-f7cd11e6e922",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-15T05:58:01.190116+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f0cebd9b-f152-471b-bcfc-f165b433de22": {
+    "id": "f0cebd9b-f152-471b-bcfc-f165b433de22",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-15T06:22:44.031831+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "22d3fbb3-5b2d-44b5-8080-c9d969b6a4e5": {
+    "id": "22d3fbb3-5b2d-44b5-8080-c9d969b6a4e5",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-15T06:22:44.041304+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "42992c08-ec9a-4797-88b5-97f56a3e1972": {
+    "id": "42992c08-ec9a-4797-88b5-97f56a3e1972",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-15T06:28:36.326809+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ce71ca49-7ba2-4e48-baf7-e318f4c72882": {
+    "id": "ce71ca49-7ba2-4e48-baf7-e318f4c72882",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-15T06:28:36.337662+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "53941741-167c-41a5-97fc-44b9fb69119b": {
+    "id": "53941741-167c-41a5-97fc-44b9fb69119b",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-15T06:52:01.173002+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "025378d3-eef3-43f0-be2d-fb5a91b93a8b": {
+    "id": "025378d3-eef3-43f0-be2d-fb5a91b93a8b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-15T06:52:01.183143+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "a59a1558-a405-4227-9e88-4d7e0b8e1ab3": {
+    "id": "a59a1558-a405-4227-9e88-4d7e0b8e1ab3",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-15T08:15:17.014760+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "c8aa083f-9bc6-4930-a351-76096f3b3a71": {
+    "id": "c8aa083f-9bc6-4930-a351-76096f3b3a71",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-15T08:15:17.031159+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e2cd0fec-2be0-4278-a0d7-c3208d28893e": {
+    "id": "e2cd0fec-2be0-4278-a0d7-c3208d28893e",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-15T08:41:21.864415+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "af992995-a567-420d-b98b-dd81998c4e3c": {
+    "id": "af992995-a567-420d-b98b-dd81998c4e3c",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-15T08:41:21.874226+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "fd5d0506-5725-4b30-8ac6-62f875f26a40": {
+    "id": "fd5d0506-5725-4b30-8ac6-62f875f26a40",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-15T08:41:59.035313+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "b1dff6d0-036a-4247-92cc-6820e13e18c5": {
+    "id": "b1dff6d0-036a-4247-92cc-6820e13e18c5",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-15T08:41:59.045161+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f4dfa4ff-3b6a-4d4b-81fa-3b16974e4f48": {
+    "id": "f4dfa4ff-3b6a-4d4b-81fa-3b16974e4f48",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-15T08:42:20.056169+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "4d05db6e-a519-435d-b516-db35d35ff06e": {
+    "id": "4d05db6e-a519-435d-b516-db35d35ff06e",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-15T08:42:20.067602+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "854918b5-7108-4c7c-afc7-acae0e2571b9": {
+    "id": "854918b5-7108-4c7c-afc7-acae0e2571b9",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-15T08:46:33.591328+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "377bce87-1dbc-41e4-8d3d-7b6936b70bdc": {
+    "id": "377bce87-1dbc-41e4-8d3d-7b6936b70bdc",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-15T08:46:33.601569+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3b0333c7-0343-4d7c-a52d-db511dd06cce": {
+    "id": "3b0333c7-0343-4d7c-a52d-db511dd06cce",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-15T08:47:19.761400+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "1f3956a0-0775-48de-9b22-e8229459b688": {
+    "id": "1f3956a0-0775-48de-9b22-e8229459b688",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-15T08:47:19.772189+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "626f3c40-2a2e-4e70-9c6c-b6fbbc64e711": {
+    "id": "626f3c40-2a2e-4e70-9c6c-b6fbbc64e711",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-15T08:50:20.357780+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "3239b991-de23-4a49-8f93-7fb2500ce132": {
+    "id": "3239b991-de23-4a49-8f93-7fb2500ce132",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-15T08:50:20.373006+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "933af009-6016-48cb-8024-3aa7a3507c35": {
+    "id": "933af009-6016-48cb-8024-3aa7a3507c35",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-15T08:50:44.001914+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "104689bc-e10a-4386-9d37-215a21a16b3f": {
+    "id": "104689bc-e10a-4386-9d37-215a21a16b3f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-15T08:50:44.012909+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "372c78d5-dfb6-4c70-bb93-a6a936e076b7": {
+    "id": "372c78d5-dfb6-4c70-bb93-a6a936e076b7",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-15T08:51:02.373917+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "28dbb9ff-204a-4059-b1e2-9a958b0b559d": {
+    "id": "28dbb9ff-204a-4059-b1e2-9a958b0b559d",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-15T08:51:02.384885+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "94dbbad5-fcbc-4266-8093-d89426f76eaf": {
+    "id": "94dbbad5-fcbc-4266-8093-d89426f76eaf",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-16T10:51:20.952532+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "70103623-5999-404a-8771-6d467c6f714a": {
+    "id": "70103623-5999-404a-8771-6d467c6f714a",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-16T10:51:20.964016+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2b04fab2-9ca7-46af-af03-fb0311d23a33": {
+    "id": "2b04fab2-9ca7-46af-af03-fb0311d23a33",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-16T10:52:41.809996+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "d8765310-fdcf-4b5f-b135-305566634633": {
+    "id": "d8765310-fdcf-4b5f-b135-305566634633",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-16T10:52:41.821968+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "73ff1663-eea2-4b15-ae52-04c4e9ab2101": {
+    "id": "73ff1663-eea2-4b15-ae52-04c4e9ab2101",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-16T11:08:14.369159+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f8c326a0-eb58-486f-bce1-90beca81323b": {
+    "id": "f8c326a0-eb58-486f-bce1-90beca81323b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-16T11:08:14.380079+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "253206e7-e78f-4cfb-84c4-b1ef7975a900": {
+    "id": "253206e7-e78f-4cfb-84c4-b1ef7975a900",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-18T19:14:45.306946+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "5819318b-07ca-44bd-9ec2-a908e08ba56a": {
+    "id": "5819318b-07ca-44bd-9ec2-a908e08ba56a",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-18T19:14:45.319934+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ed1b9256-783a-43e7-835d-cf85b09889cc": {
+    "id": "ed1b9256-783a-43e7-835d-cf85b09889cc",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-18T19:29:16.074718+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "19dd513b-919a-4ff3-8576-01d493c5ae08": {
+    "id": "19dd513b-919a-4ff3-8576-01d493c5ae08",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-18T19:29:16.085857+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "e54270b8-c2f4-4313-b5a0-790254b79c58": {
+    "id": "e54270b8-c2f4-4313-b5a0-790254b79c58",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-18T19:38:43.473877+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "eeb49a13-580a-4874-a44e-d759b119539f": {
+    "id": "eeb49a13-580a-4874-a44e-d759b119539f",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-18T19:38:43.484902+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "eb40e075-f12c-4582-a26e-f3e3b7c5421b": {
+    "id": "eb40e075-f12c-4582-a26e-f3e3b7c5421b",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-18T19:41:16.486163+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2557f404-340a-4dba-8090-2e3c07dbdbf2": {
+    "id": "2557f404-340a-4dba-8090-2e3c07dbdbf2",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-18T19:41:16.496570+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "782509bb-7f58-4d76-8caa-5e21613f4f80": {
+    "id": "782509bb-7f58-4d76-8caa-5e21613f4f80",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-18T20:06:44.718127+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "7b4913d7-b307-4352-922c-e27f88eda20b": {
+    "id": "7b4913d7-b307-4352-922c-e27f88eda20b",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-18T20:06:44.730197+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "ef2ca6c1-1c41-4d9d-b19a-c35fab834bf5": {
+    "id": "ef2ca6c1-1c41-4d9d-b19a-c35fab834bf5",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-18T20:10:14.545021+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "40983eee-2d57-4e5d-83b4-46a6db949350": {
+    "id": "40983eee-2d57-4e5d-83b4-46a6db949350",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-18T20:10:14.557849+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "2d18edfb-b1fb-4683-baf4-185c18331014": {
+    "id": "2d18edfb-b1fb-4683-baf4-185c18331014",
+    "user_id": "user_monthly_001",
+    "feature": "priority_support",
+    "timestamp": "2025-07-18T20:12:57.775850+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  },
+  "f7238c8e-a484-45c4-80a8-74d119a1f022": {
+    "id": "f7238c8e-a484-45c4-80a8-74d119a1f022",
+    "user_id": "user_annual_001",
+    "feature": "white_label",
+    "timestamp": "2025-07-18T20:12:57.788811+00:00",
+    "cost": null,
+    "currency": "USD",
+    "metadata": {}
+  }
+}

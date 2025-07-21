@@ -1,0 +1,81 @@
+{
+  "freemium": {
+    "id": "freemium",
+    "name": "Freemium",
+    "description": "Free tier with limited usage",
+    "payment_type": "freemium",
+    "price": 0.01,
+    "currency": "USD",
+    "price_per_request": null,
+    "billing_period": null,
+    "requests_per_period": null,
+    "free_requests": 10,
+    "features": [
+      "basic_ai_response",
+      "simple_analysis"
+    ],
+    "is_active": true,
+    "created_at": "2025-07-18T20:12:57.751508+00:00"
+  },
+  "pay_per_use": {
+    "id": "pay_per_use",
+    "name": "Pay Per Use",
+    "description": "Pay only for what you use",
+    "payment_type": "pay_per_use",
+    "price": 0.01,
+    "currency": "USD",
+    "price_per_request": 0.1,
+    "billing_period": null,
+    "requests_per_period": null,
+    "free_requests": 0,
+    "features": [
+      "advanced_ai_response",
+      "complex_analysis",
+      "custom_models"
+    ],
+    "is_active": true,
+    "created_at": "2025-07-18T20:12:57.752619+00:00"
+  },
+  "monthly_pro": {
+    "id": "monthly_pro",
+    "name": "Monthly Pro",
+    "description": "Unlimited access with monthly billing",
+    "payment_type": "subscription",
+    "price": 29.99,
+    "currency": "USD",
+    "price_per_request": null,
+    "billing_period": "monthly",
+    "requests_per_period": 1000,
+    "free_requests": 0,
+    "features": [
+      "advanced_ai_response",
+      "complex_analysis",
+      "custom_models",
+      "priority_support"
+    ],
+    "is_active": true,
+    "created_at": "2025-07-18T20:12:57.752991+00:00"
+  },
+  "annual_enterprise": {
+    "id": "annual_enterprise",
+    "name": "Annual Enterprise",
+    "description": "Enterprise features with annual billing",
+    "payment_type": "subscription",
+    "price": 299.99,
+    "currency": "USD",
+    "price_per_request": null,
+    "billing_period": "yearly",
+    "requests_per_period": 10000,
+    "free_requests": 0,
+    "features": [
+      "advanced_ai_response",
+      "complex_analysis",
+      "custom_models",
+      "priority_support",
+      "api_access",
+      "white_label"
+    ],
+    "is_active": true,
+    "created_at": "2025-07-18T20:12:57.753419+00:00"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "freemium": {
+    "id": "freemium",
+    "name": "Freemium",
+    "description": "Free tier with limited usage",
+    "payment_type": "freemium",
+    "price": 0.0,
+    "currency": "USD",
+    "price_per_request": null,
+    "billing_period": null,
+    "requests_per_period": null,
+    "free_requests": 10,
+    "features": [
+      "basic_ai_response",
+      "simple_analysis"
+    ],
+    "is_active": true,
+    "created_at": "2025-07-08T05:35:35.465244+00:00"
+  },
+  "pro": {
+    "id": "pro",
+    "name": "Pro Subscription",
+    "description": "Professional subscription with unlimited usage",
+    "payment_type": "subscription",
+    "price": 29.99,
+    "currency": "USD",
+    "price_per_request": null,
+    "billing_period": "monthly",
+    "requests_per_period": 1000,
+    "free_requests": 0,
+    "features": [
+      "advanced_ai_response",
+      "complex_analysis",
+      "priority_support"
+    ],
+    "is_active": true,
+    "created_at": "2025-07-08T05:35:35.465451+00:00"
+  },
+  "pay_per_use": {
+    "id": "pay_per_use",
+    "name": "Pay per Use",
+    "description": "Pay only for what you use",
+    "payment_type": "pay_per_use",
+    "price": 0.0,
+    "currency": "USD",
+    "price_per_request": 0.01,
+    "billing_period": null,
+    "requests_per_period": null,
+    "free_requests": 0,
+    "features": [
+      "all_features"
+    ],
+    "is_active": true,
+    "created_at": "2025-07-08T05:35:35.465454+00:00"
+  }
+}

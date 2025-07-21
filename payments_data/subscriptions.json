@@ -1,0 +1,14 @@
+{
+  "996bbb47-1f7a-48b1-b213-00cda9465c75": {
+    "id": "996bbb47-1f7a-48b1-b213-00cda9465c75",
+    "user_id": "testuser",
+    "plan_id": "pro",
+    "status": "active",
+    "start_date": "2025-07-08T05:35:51.798540+00:00",
+    "end_date": null,
+    "current_period_start": "2025-07-08T05:35:51.798540+00:00",
+    "current_period_end": "2025-08-07T05:35:51.798540+00:00",
+    "usage_count": 0,
+    "metadata": {}
+  }
+}

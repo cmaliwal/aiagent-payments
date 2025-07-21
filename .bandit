@@ -1,0 +1,6 @@
+[bandit]
+target = aiagent_payments
+exclude = tests,examples,docs
+skips = B101,B104
+severity = medium
+confidence = medium 
