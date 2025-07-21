@@ -12,7 +12,7 @@ from .providers import PaymentProvider, create_payment_provider
 from .providers.mock import MockProvider
 from .storage.memory import MemoryStorage
 
-__version__ = "0.0.1-beta"
+__version__ = "0.0.1b1"
 
 __all__ = [
     "PaymentManager",

@@ -9,7 +9,7 @@ This module provides a comprehensive USDT ERC-20 payment solution with:
 - Production-ready security features
 
 Author: AI Agent Payments Team
-Version: 0.0.1-beta
+Version: 0.0.1b1
 """
 
 import logging

@@ -8,7 +8,7 @@ This test suite validates the critical fixes for:
 4. Production readiness checks
 
 Author: AI Agent Payments Team
-Version: 0.0.1-beta
+Version: 0.0.1b1
 """
 
 import os

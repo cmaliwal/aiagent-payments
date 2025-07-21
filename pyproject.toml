@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "aiagent-payments"
-version = "0.0.1-beta"
+version = "0.0.1b1"
 description = "A Python SDK for monetizing AI/autonomous agents with subscription and pay-per-use models"
 authors = [
     { name = "Chirag Maliwal", email = "Chiragmaliwal1995@gmail.com" }

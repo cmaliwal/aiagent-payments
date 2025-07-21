@@ -22,7 +22,7 @@ def read_requirements():
 
 setup(
     name="aiagent-payments",
-    version="0.0.1-beta",
+    version="0.0.1b1",
     author="Chirag Maliwal",
     author_email="Chiragmaliwal1995@gmail.com",
     description="A general-purpose Python SDK for AI agent monetization with subscription and pay-per-use models",
